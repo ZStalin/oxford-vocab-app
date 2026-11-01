@@ -39,7 +39,7 @@ class Settings {
 /// 单个单词的学习状态
 class CardState {
   final int wordId;
-  final int status; // 0=未学/待学 1=学习中 2=已掌握
+  int status; // 0=未学/待学 1=学习中 2=已掌握（随学习进度变化）
   int seen;
   int correct;
   int wrong;
