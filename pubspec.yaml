@@ -1,0 +1,27 @@
+name: oxford_vocab
+description: 牛津 5000 背单词 —— 基于 Oxford 5000 CEFR 词表的每日定量背词应用
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # 本地数据库：单词进度、打卡、设置
+  sqflite: ^2.3.3
+  # 数据库文件路径拼接
+  path: ^1.9.0
+  # 单词发音（调用系统 TTS，离线可用）
+  flutter_tts: ^4.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/words.json

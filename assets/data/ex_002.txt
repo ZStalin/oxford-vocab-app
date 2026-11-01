@@ -1,0 +1,400 @@
+401|It was a memorable trip.|那是难忘的旅行。
+402|The poem uses the sea as a metaphor for life.|这首诗用大海比喻人生。
+403|The miners worked underground.|矿工在地下工作。
+404|He felt miserable after the argument.|争吵后他感觉很痛苦。
+405|Put your phone in silent mode.|把手机调成静音模式。
+406|She lives in a modest flat.|她住在一套朴素的公寓里。
+407|The story is about a monster in the lake.|故事讲的是湖里的怪物。
+408|I pay a monthly fee.|我按月付费。
+409|They visited the war monument.|他们参观了战争纪念碑。
+410|The plan is expensive; moreover, it is risky.|这个计划很贵，而且有风险。
+411|They took out a mortgage to buy the house.|他们贷款买房。
+412|The mosque is open to visitors.|这座清真寺对游客开放。
+413|The motion of the boat made her sick.|船的晃动让她难受。
+414|Good teachers motivate students.|好老师能激励学生。
+415|He lacks motivation to study.|他缺乏学习动力。
+416|It was a moving speech.|那是感人的演讲。
+417|It is a myth that we use only ten percent of our brains.|只用大脑一成是谬论。
+418|The child ran out naked.|孩子光着身子跑出去。
+419|He had a nasty accident.|他出了严重事故。
+420|The ship's navigation system failed.|船的导航系统失灵了。
+421|There is a hospital nearby.|附近有医院。
+422|Water is a basic necessity.|水是基本必需品。
+423|They negotiated a new contract.|他们谈成了新合同。
+424|The negotiations lasted all night.|谈判持续了一整夜。
+425|Switzerland remained neutral in the war.|瑞士在战争中保持中立。
+426|The newly built road is open.|新修的路已开通。
+427|Working from home has become the norm.|居家办公已成常态。
+428|He wrote the address in his notebook.|他把地址记在笔记本上。
+429|She is a famous novelist.|她是著名小说家。
+430|Nowadays most people shop online.|如今大多数人网购。
+431|She chose a career in nursing.|她选择了护理职业。
+432|Good nutrition is essential for children.|良好的营养对孩子很重要。
+433|Obesity is a growing health problem.|肥胖是日益严重的健康问题。
+434|Observers said the vote was fair.|观察员说投票公正。
+435|Lack of money is the main obstacle.|缺钱是主要障碍。
+436|Please write your occupation here.|请在这里填写职业。
+437|The company occupies three floors.|公司占了三层楼。
+438|Young offenders are treated differently.|少年犯受到不同对待。
+439|The project is ongoing.|项目仍在进行。
+440|He spoke openly about his mistakes.|他坦率地谈自己的错误。
+441|We went to the opera last night.|我们昨晚去看了歌剧。
+442|Call the operator for help.|打给接线员求助。
+443|She is optimistic about the future.|她对未来很乐观。
+444|The orchestra played beautifully.|管弦乐队演奏得很美。
+445|They grow organic vegetables.|他们种有机蔬菜。
+446|She wore a white outfit.|她穿了一身白。
+447|The factory increased its output.|工厂提高了产量。
+448|She did an outstanding job.|她工作出色。
+449|He overcame his fear of speaking.|他克服了演讲恐惧。
+450|The weather changed overnight.|天气一夜之间变了。
+451|He works overseas.|他在国外工作。
+452|Car ownership is rising.|汽车拥有量在上升。
+453|Plants produce oxygen.|植物产生氧气。
+454|He bought a packet of biscuits.|他买了一包饼干。
+455|She held the coin in her palm.|她把硬币握在手心。
+456|Do not panic in an emergency.|紧急情况下不要惊慌。
+457|The parade went through the city.|游行队伍穿过城市。
+458|The two roads run parallel.|这两条路平行。
+459|Class participation counts towards the grade.|课堂参与计入成绩。
+460|The two firms formed a partnership.|两家公司建立了合作关系。
+461|She has a part-time job.|她有一份兼职。
+462|He is passionate about music.|他热爱音乐。
+463|I forgot my password.|我忘了密码。
+464|Teaching children needs patience.|教孩子需要耐心。
+465|He paused before answering.|他回答前停了一下。
+466|Teenagers care about peer pressure.|青少年在意同伴压力。
+467|The penalty for cheating is severe.|作弊的处罚很重。
+468|We perceive the world through our senses.|我们通过感官感知世界。
+469|Public perception has changed.|公众的看法变了。
+470|He moved permanently to Canada.|他永久移居加拿大。
+471|Take one pill after dinner.|晚饭后吃一片药。
+472|It is a pity you cannot come.|你不能来真可惜。
+473|The course includes a work placement.|课程包含实习。
+474|He ate a small portion of rice.|他吃了一小份米饭。
+475|The drug could potentially save lives.|这种药可能救命。
+476|A short film preceded the main movie.|正片前放了短片。
+477|Time is precious.|时间宝贵。
+478|Give me the precise figures.|给我准确数字。
+479|The train left at precisely eight.|火车正好八点开。
+480|The ending was predictable.|结局可以预料。
+481|I have no preference.|我没有偏好。
+482|She takes pride in her work.|她为工作自豪。
+483|The course is primarily for beginners.|这门课主要面向初学者。
+484|The principal spoke to the students.|校长对学生讲话。
+485|No prior experience is needed.|不需要先前经验。
+486|There is a high probability of rain.|下雨可能性很大。
+487|It is probable that he will win.|他很可能会赢。
+488|Please proceed to gate twelve.|请前往十二号登机口。
+489|He is learning programming.|他在学编程。
+490|The party has progressive policies.|该党有进步政策。
+491|The law prohibits smoking indoors.|法律禁止室内吸烟。
+492|She is a promising young singer.|她是有前途的年轻歌手。
+493|He got a promotion last month.|他上个月升职了。
+494|Thank you for your prompt reply.|谢谢你及时回复。
+495|A large proportion of students work part-time.|很大比例的学生做兼职。
+496|Eggs are rich in protein.|鸡蛋富含蛋白质。
+497|Protesters gathered outside the building.|抗议者聚集在楼外。
+498|The injury caused psychological damage.|受伤造成了心理伤害。
+499|The film got a lot of publicity.|这部电影得到大量宣传。
+500|She works in publishing.|她在出版业工作。
+501|He listens to punk music.|他听朋克音乐。
+502|It was purely an accident.|那纯粹是意外。
+503|He gave up his pursuit of wealth.|他放弃了追求财富。
+504|The question puzzled me.|这问题把我难住了。
+505|Please fill in the questionnaire.|请填写问卷。
+506|The country has a history of racial tension.|该国有种族紧张的历史。
+507|The club denied racism.|俱乐部否认种族主义。
+508|The comments were widely seen as racist.|这些言论被普遍视为种族主义。
+509|The workers were exposed to radiation.|工人受到辐射。
+510|We travelled by rail.|我们乘火车旅行。
+511|Choose a random number.|随机选一个数字。
+512|A rat ran across the floor.|一只老鼠跑过地板。
+513|The film has a high rating.|这部电影评分很高。
+514|The hotel is reasonably priced.|这家酒店价格合理。
+515|They rebuilt the school after the fire.|火灾后他们重建了学校。
+516|She put the phone down on the receiver.|她把电话放回听筒上。
+517|Many jobs were lost in the recession.|经济衰退中很多人失业。
+518|I reckon it will take two hours.|我估计要两个小时。
+519|She finally received recognition for her work.|她的工作终于得到认可。
+520|The economy is showing signs of recovery.|经济出现复苏迹象。
+521|The firm plans to recruit twenty staff.|公司计划招聘二十人。
+522|Recruitment starts in June.|招聘六月开始。
+523|The referee gave a penalty.|裁判判了点球。
+524|The refugees were given shelter.|难民得到安置。
+525|Registration opens next week.|注册下周开始。
+526|The law regulates the use of data.|法律规范数据使用。
+527|The results reinforce our earlier findings.|结果强化了我们早前的发现。
+528|The medicine relieved the pain.|药缓解了疼痛。
+529|I was relieved to hear the news.|听到消息我松了口气。
+530|She has a remarkable memory.|她记忆力惊人。
+531|The plan worked remarkably well.|计划效果非常好。
+532|The reporting of the event was biased.|事件报道有偏见。
+533|He resigned from his post.|他辞去了职务。
+534|They reached a resolution.|他们达成了决议。
+535|The old church was restored.|老教堂被修复了。
+536|Access is restricted to staff.|仅员工可进入。
+537|There are restrictions on travel.|旅行有限制。
+538|She works in retail.|她在零售业工作。
+539|He is enjoying his retirement.|他很享受退休生活。
+540|The company's revenue doubled.|公司收入翻倍。
+541|I need to do some revision before the exam.|考前我需要复习。
+542|That price is ridiculous.|那价格太离谱。
+543|It is risky to invest all your money there.|把钱全投在那里有风险。
+544|The two teams are rivals.|两队是竞争对手。
+545|They robbed a bank.|他们抢了银行。
+546|There was a robbery last night.|昨晚发生抢劫案。
+547|The rocket launched successfully.|火箭成功发射。
+548|Their romance began at university.|他们的恋情始于大学。
+549|He gave her a red rose.|他送她一朵红玫瑰。
+550|It takes roughly an hour.|大约需要一小时。
+551|The rain ruined our picnic.|雨毁了我们的野餐。
+552|She smiled with satisfaction.|她满意地笑了。
+553|The scandal forced him to resign.|丑闻迫使他辞职。
+554|The noise scared the baby.|噪音吓到了婴儿。
+555|Imagine the worst scenario.|想象最坏的情形。
+556|He is a respected scholar.|他是受人尊敬的学者。
+557|She won a scholarship to study abroad.|她获得留学奖学金。
+558|He built the app from scratch.|他从零做了这个应用。
+559|The hospital offers free screening.|医院提供免费筛查。
+560|Job seekers queued outside.|求职者在外面排队。
+561|She attended a two-day seminar.|她参加了为期两天的研讨会。
+562|The first settlers arrived in 1800.|第一批定居者一八零零年到来。
+563|He was severely injured.|他受了重伤。
+564|She looked sexy in that dress.|她穿那条裙子很性感。
+565|The pool is shaped like a heart.|泳池是心形的。
+566|The news was shocking.|这消息令人震惊。
+567|We walked along the shore.|我们沿着海岸走。
+568|This is only a short-term solution.|这只是短期方案。
+569|There is a shortage of nurses.|护士短缺。
+570|She will arrive shortly.|她马上就到。
+571|He has two siblings.|他有两个兄弟姐妹。
+572|Please write your signature here.|请在这里签名。
+573|The discovery has great significance.|这个发现意义重大。
+574|We need skilled workers.|我们需要熟练工人。
+575|The skull was found in the field.|头骨在田里被发现。
+576|The slogan was easy to remember.|这个口号容易记。
+577|The so-called experts were wrong.|所谓的专家错了。
+578|Somehow he managed to finish.|他不知怎么完成了。
+579|Let us meet sometime next week.|我们下周找个时间见面。
+580|The system is highly sophisticated.|这个系统非常精密。
+581|I have a spare key.|我有一把备用钥匙。
+582|She specializes in children's medicine.|她专攻儿科。
+583|Please specify your requirements.|请说明你的要求。
+584|The fireworks were spectacular.|烟花很壮观。
+585|Thousands of spectators watched the race.|数千观众观看比赛。
+586|Reporters speculated about his future.|记者猜测他的未来。
+587|There is speculation that prices will fall.|有人猜测价格会下跌。
+588|He spilled coffee on the table.|他把咖啡洒在桌上。
+589|In spite of the rain, we went out.|尽管下雨，我们还是出门了。
+590|The rain spoiled the trip.|雨破坏了旅行。
+591|A government spokesman confirmed the news.|政府发言人证实了消息。
+592|A spokesperson for the company declined to comment.|公司发言人拒绝评论。
+593|A spokeswoman read the statement.|一位女发言人宣读了声明。
+594|The event relies on sponsorship.|活动依靠赞助。
+595|He is a sporting hero.|他是体育英雄。
+596|She runs a fruit stall.|她经营一个水果摊。
+597|The party changed its stance on tax.|该党改变了税收立场。
+598|Many people starved during the war.|战争期间许多人饿死。
+599|Prices have risen steadily.|价格稳步上升。
+600|The kettle was full of steam.|水壶里满是蒸汽。
+601|The policy aims to stimulate growth.|该政策旨在刺激增长。
+602|Exercise strengthens muscles.|运动增强肌肉。
+603|Smoking is strictly forbidden.|严禁吸烟。
+604|He had a stroke last year.|他去年中风。
+605|The view was stunning.|景色惊艳。
+606|Subsequent events proved him right.|后来发生的事证明他对了。
+607|She subsequently moved to London.|她后来搬到了伦敦。
+608|They live in a quiet suburb.|他们住在安静的郊区。
+609|The war caused great suffering.|战争造成巨大苦难。
+610|We have sufficient food.|我们有充足的食物。
+611|The room was not sufficiently heated.|房间供暖不足。
+612|The food was super.|食物棒极了。
+613|The surgeon operated for six hours.|外科医生手术了六小时。
+614|The survival of the species is at risk.|这个物种的生存受到威胁。
+615|Only one survivor was found.|只找到一名幸存者。
+616|The match was suspended because of rain.|比赛因雨暂停。
+617|We need sustainable energy.|我们需要可持续能源。
+618|He swallowed the pill with water.|他用水吞下药片。
+619|She was sympathetic to my problem.|她对我的问题很同情。
+620|The government must tackle youth unemployment.|政府必须解决青年失业问题。
+621|Check the price tag.|看一下价格标签。
+622|He tapped on the window.|他轻敲窗户。
+623|Technological change is fast.|技术变革很快。
+624|She started playing tennis in her teens.|她十几岁开始打网球。
+625|They visited an ancient temple.|他们参观了一座古庙。
+626|The road is temporarily closed.|这条路暂时关闭。
+627|He has a tendency to exaggerate.|他有夸张的倾向。
+628|There was tension between the two countries.|两国关系紧张。
+629|The bus terminal is near the station.|公交总站在车站附近。
+630|The terms of the contract are clear.|合同条款很清楚。
+631|I am terribly sorry.|我非常抱歉。
+632|The storm terrified the children.|暴风雨吓坏了孩子。
+633|The bird defends its territory.|这种鸟保卫自己的领地。
+634|She screamed in terror.|她恐惧地尖叫。
+635|The government is fighting terrorism.|政府正在打击恐怖主义。
+636|The terrorist attack shocked the nation.|恐怖袭击震惊全国。
+637|The product is still under testing.|产品仍在测试中。
+638|Open your textbook to page ten.|打开课本第十页。
+639|He was arrested for theft.|他因盗窃被捕。
+640|She sees a therapist every week.|她每周看一次治疗师。
+641|He is writing his thesis on climate policy.|他在写气候政策论文。
+642|The police made a thorough search.|警方进行了彻底搜查。
+643|I thoroughly enjoyed the book.|我非常喜欢这本书。
+644|He hurt his thumb.|他伤了拇指。
+645|The timing of the announcement was strange.|宣布的时机很奇怪。
+646|The doctor took a tissue sample.|医生取了组织样本。
+647|The lorry carried ten tons of sand.|卡车运了十吨沙子。
+648|The ship can carry fifty thousand tonnes.|这船能装五万吨。
+649|She won the tennis tournament.|她赢得网球锦标赛。
+650|There was no trace of the missing dog.|失踪的狗没有一点踪迹。
+651|Trading was heavy this morning.|今天上午交易活跃。
+652|The accident was a tragedy.|这场事故是悲剧。
+653|It was a tragic loss.|这是悲惨的损失。
+654|Patience is a useful trait.|耐心是有用的特质。
+655|The disease is transmitted by mosquitoes.|这种病由蚊子传播。
+656|Public transportation is cheap here.|这里的公共交通很便宜。
+657|The fox was caught in a trap.|狐狸被捕兽夹夹住。
+658|The museum holds many treasures.|博物馆藏有许多珍宝。
+659|The tribe lives in the mountains.|这个部落住在山里。
+660|The news triggered panic.|消息引发了恐慌。
+661|Troops were sent to the border.|部队被派往边境。
+662|The tsunami destroyed the village.|海啸摧毁了村庄。
+663|Our ultimate goal is independence.|我们的最终目标是独立。
+664|His behaviour is unacceptable.|他的行为不可接受。
+665|There is uncertainty about the future.|未来不确定。
+666|She underwent surgery last week.|她上周做了手术。
+667|The firm will undertake the work.|公司将承担这项工作。
+668|The story unfolded slowly.|故事慢慢展开。
+669|It was an unfortunate mistake.|这是不幸的错误。
+670|The crisis united the community.|危机让社区团结起来。
+671|The party needs unity.|党需要团结。
+672|Music is a universal language.|音乐是通用语言。
+673|This is an urgent matter.|这是紧急事项。
+674|Water usage has increased.|用水量增加了。
+675|This tool is useless.|这工具没用。
+676|Your ticket is valid for one month.|你的票一个月内有效。
+677|There is wide variation in prices.|价格差异很大。
+678|Draw a vertical line.|画一条垂直线。
+679|From my viewpoint, the plan is risky.|在我看来这个计划有风险。
+680|She applied for a student visa.|她申请了学生签证。
+681|The mountain is visible from here.|从这里能看到那座山。
+682|She does voluntary work at the hospital.|她在医院做志愿工作。
+683|Voting closes at six.|投票六点结束。
+684|We wandered through the old town.|我们在老城闲逛。
+685|Global warming is accelerating.|全球变暖在加速。
+686|They hold a weekly meeting.|他们每周开会。
+687|That was a weird dream.|那是个奇怪的梦。
+688|The state provides welfare for the poor.|国家为穷人提供福利。
+689|Farmers grow wheat here.|农民在这里种小麦。
+690|He read whilst waiting.|他边等边看书。
+691|Whoever calls, say I am out.|不管谁打来，都说我出去了。
+692|The disease is now widespread.|这种病现在很普遍。
+693|She spoke with great wisdom.|她说话很有智慧。
+694|He withdrew money from the bank.|他从银行取了钱。
+695|Half the workforce is part-time.|一半劳动力是兼职。
+696|The workplace must be safe.|工作场所必须安全。
+697|She ran a writing workshop.|她办了一个写作工作坊。
+698|A worm crawled across the path.|一条虫爬过小路。
+699|He wears a watch on his wrist.|他手腕上戴着手表。
+700|The country abolished the death penalty.|该国废除了死刑。
+701|The law on abortion is widely debated.|堕胎法律广受争议。
+702|His absence was noticed.|他的缺席被注意到了。
+703|Three students were absent today.|今天三名学生缺席。
+704|The idea seems absurd.|这个想法显得荒谬。
+705|There is an abundance of fruit here.|这里水果丰富。
+706|He suffered abuse as a child.|他小时候受过虐待。
+707|She studies at the art academy.|她在艺术学院学习。
+708|The car accelerated suddenly.|车突然加速。
+709|Her acceptance of the offer surprised us.|她接受提议让我们惊讶。
+710|The building is accessible to wheelchair users.|这楼轮椅使用者可进入。
+711|Finishing the race was a real accomplishment.|跑完比赛是真正的成就。
+712|The work was done in accordance with the rules.|工作按规定完成。
+713|Prices changed and we acted accordingly.|价格变了，我们也相应调整。
+714|The police need greater accountability.|警方需要更强的问责。
+715|Ministers are accountable to parliament.|部长对议会负责。
+716|Dust accumulates quickly here.|这里灰尘积累很快。
+717|The accumulation of data took years.|数据积累花了好几年。
+718|He denied the accusation.|他否认指控。
+719|The accused denied everything.|被告否认一切。
+720|The bank announced the acquisition of a rival.|银行宣布收购对手。
+721|The farm covers fifty acres.|农场占地五十英亩。
+722|Activation takes a few seconds.|激活需要几秒钟。
+723|She is a climate activist.|她是气候活动家。
+724|He felt acute pain in his chest.|他感到胸口剧痛。
+725|The film is an adaptation of a novel.|这部电影改编自小说。
+726|Please adhere to the guidelines.|请遵守指引。
+727|The hotel is adjacent to the station.|酒店紧邻车站。
+728|A small adjustment fixed the problem.|小调整解决了问题。
+729|The fund is administered by a charity.|基金由慈善机构管理。
+730|She does administrative work.|她做行政工作。
+731|He is the hospital administrator.|他是医院管理者。
+732|Admission to the museum is free.|博物馆免费入场。
+733|Adolescents need more sleep.|青少年需要更多睡眠。
+734|The adoption of the new law took years.|新法的通过花了好几年。
+735|The drug has adverse effects.|这种药有不良反应。
+736|She advocates free education.|她主张免费教育。
+737|The building has great aesthetic appeal.|这栋楼很有美感。
+738|He shows affection for his dog.|他对狗很有感情。
+739|In the aftermath of the flood, aid arrived.|洪水过后救援到达。
+740|The war began with an act of aggression.|战争始于侵略行为。
+741|Agricultural land is being lost.|农业用地正在减少。
+742|A senior aide resigned.|一名高级助手辞职。
+743|He agreed, albeit reluctantly.|他同意了，尽管不情愿。
+744|The guards stayed alert all night.|卫兵整夜保持警觉。
+745|The party aligned itself with the unions.|该党与工会结盟。
+746|The wheels need alignment.|车轮需要调校。
+747|The two brothers look alike.|两兄弟长得很像。
+748|The company denied the allegation.|公司否认指控。
+749|They allege that he stole the money.|他们声称他偷了钱。
+750|He allegedly took bribes.|据称他收受贿赂。
+751|The two countries formed an alliance.|两国结成同盟。
+752|The council allocated funds for repairs.|议会拨款维修。
+753|The allocation of resources is unfair.|资源分配不公平。
+754|He gets a monthly allowance.|他每月有零花钱。
+755|Britain was a close ally.|英国是紧密盟友。
+756|The frame is made of aluminium.|框架是铝制的。
+757|He is an amateur photographer.|他是业余摄影师。
+758|She was appointed ambassador to France.|她被任命为驻法大使。
+759|The law was amended last year.|法律去年被修订。
+760|They proposed an amendment.|他们提出了修正案。
+761|He left amid protests.|他在抗议声中离开。
+762|He drew an analogy with the human body.|他拿人体作类比。
+763|The ship dropped anchor.|船抛锚了。
+764|She is like an angel.|她像个天使。
+765|The gift was anonymous.|这份礼物是匿名的。
+766|The lab has new apparatus.|实验室有新设备。
+767|The idea is appealing.|这个想法很有吸引力。
+768|He has a good appetite.|他胃口很好。
+769|The audience applauded loudly.|观众热烈鼓掌。
+770|This rule is not applicable here.|这条规则在这里不适用。
+771|The board appointed a new director.|董事会任命了新董事。
+772|I have great appreciation for her work.|我非常欣赏她的工作。
+773|The decision seemed arbitrary.|这个决定显得武断。
+774|The city is famous for its architectural heritage.|这座城市以建筑遗产闻名。
+775|The photos are kept in the archive.|照片存于档案馆。
+776|The concert filled the arena.|音乐会坐满场馆。
+777|He is arguably the best player.|他可以说是最好的选手。
+778|She held the baby in her arms.|她把婴儿抱在怀里。
+779|The shop offers a wide array of goods.|这家店货品繁多。
+780|She is an articulate speaker.|她是个表达清晰的演讲者。
+781|The volcano covered the town in ash.|火山灰覆盖了小镇。
+782|Her aspiration is to become a doctor.|她的志向是当医生。
+783|He aspires to lead the company.|他渴望领导公司。
+784|The assassination changed history.|这次暗杀改变了历史。
+785|He was charged with assault.|他被控袭击。
+786|The crowd assembled in the square.|人群在广场集合。
+787|The assembly passed the bill.|议会通过了法案。
+788|She asserted her authority.|她主张自己的权威。
+789|His assertion was not supported by facts.|他的主张没有事实支持。
+790|He gave us an assurance of support.|他向我们保证支持。
+791|They applied for asylum.|他们申请庇护。
+792|The war was full of atrocities.|这场战争充满暴行。
+793|She attained her goal.|她达到了目标。
+794|Attendance at the lecture was poor.|讲座出席率很低。
+795|He hired an attorney.|他请了律师。
+796|She attributes her success to hard work.|她把成功归于努力。
+797|The company faces a tax audit.|公司面临税务审计。
+798|It is an authentic Italian restaurant.|这是家地道的意大利餐厅。
+799|Only the manager can authorize payment.|只有经理能批准付款。
+800|The auto industry is changing fast.|汽车工业变化很快。

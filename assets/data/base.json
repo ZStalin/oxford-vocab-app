@@ -1,0 +1,11995 @@
+{
+ "version": 1,
+ "source": "The Oxford 5000 by CEFR level (B2 + C1)",
+ "count": 1998,
+ "words": [
+  {
+   "id": 1,
+   "w": "absorb",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 2,
+   "w": "abstract",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 3,
+   "w": "accent",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 4,
+   "w": "accidentally",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 5,
+   "w": "accommodate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 6,
+   "w": "accomplish",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 7,
+   "w": "accountant",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 8,
+   "w": "accounting",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 9,
+   "w": "accuracy",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 10,
+   "w": "accurately",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 11,
+   "w": "acid",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 12,
+   "w": "activate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 13,
+   "w": "addiction",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 14,
+   "w": "additionally",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 15,
+   "w": "adequate",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 16,
+   "w": "adequately",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 17,
+   "w": "adjust",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 18,
+   "w": "affordable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 19,
+   "w": "agriculture",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 20,
+   "w": "aids",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 21,
+   "w": "alien",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 22,
+   "w": "alongside",
+   "pos": "prep.",
+   "level": "B2"
+  },
+  {
+   "id": 23,
+   "w": "altogether",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 24,
+   "w": "ambulance",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 25,
+   "w": "amusing",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 26,
+   "w": "analyst",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 27,
+   "w": "ancestor",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 28,
+   "w": "animation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 29,
+   "w": "annually",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 30,
+   "w": "anticipate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 31,
+   "w": "anxiety",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 32,
+   "w": "apology",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 33,
+   "w": "applicant",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 34,
+   "w": "appropriately",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 35,
+   "w": "arrow",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 36,
+   "w": "artwork",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 37,
+   "w": "aside",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 38,
+   "w": "asset",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 39,
+   "w": "assign",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 40,
+   "w": "assistance",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 41,
+   "w": "assumption",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 42,
+   "w": "assure",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 43,
+   "w": "astonishing",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 44,
+   "w": "attachment",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 45,
+   "w": "auction",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 46,
+   "w": "audio",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 47,
+   "w": "automatic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 48,
+   "w": "automatically",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 49,
+   "w": "awareness",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 50,
+   "w": "awkward",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 51,
+   "w": "badge",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 52,
+   "w": "balanced",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 53,
+   "w": "ballet",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 54,
+   "w": "balloon",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 55,
+   "w": "barely",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 56,
+   "w": "bargain",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 57,
+   "w": "basement",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 58,
+   "w": "basket",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 59,
+   "w": "bat",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 60,
+   "w": "beneficial",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 61,
+   "w": "beside",
+   "pos": "prep.",
+   "level": "B2"
+  },
+  {
+   "id": 62,
+   "w": "besides",
+   "pos": "prep.,adv.",
+   "level": "B2"
+  },
+  {
+   "id": 63,
+   "w": "bias",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 64,
+   "w": "bid",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 65,
+   "w": "biological",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 66,
+   "w": "blanket",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 67,
+   "w": "blow",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 68,
+   "w": "bold",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 69,
+   "w": "bombing",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 70,
+   "w": "booking",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 71,
+   "w": "boost",
+   "pos": "v.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 72,
+   "w": "bound",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 73,
+   "w": "brick",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 74,
+   "w": "briefly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 75,
+   "w": "broadcaster",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 76,
+   "w": "broadly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 77,
+   "w": "bug",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 78,
+   "w": "cabin",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 79,
+   "w": "canal",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 80,
+   "w": "candle",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 81,
+   "w": "carbon",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 82,
+   "w": "casual",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 83,
+   "w": "cave",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 84,
+   "w": "certainty",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 85,
+   "w": "certificate",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 86,
+   "w": "challenging",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 87,
+   "w": "championship",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 88,
+   "w": "charming",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 89,
+   "w": "chase",
+   "pos": "v.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 90,
+   "w": "cheek",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 91,
+   "w": "cheer",
+   "pos": "v.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 92,
+   "w": "choir",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 93,
+   "w": "chop",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 94,
+   "w": "circuit",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 95,
+   "w": "civilization",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 96,
+   "w": "clarify",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 97,
+   "w": "classify",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 98,
+   "w": "cleaning",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 99,
+   "w": "clerk",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 100,
+   "w": "cliff",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 101,
+   "w": "clinic",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 102,
+   "w": "clip",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 103,
+   "w": "coincidence",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 104,
+   "w": "collector",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 105,
+   "w": "colony",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 106,
+   "w": "colourful",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 107,
+   "w": "comic",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 108,
+   "w": "commander",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 109,
+   "w": "comparative",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 110,
+   "w": "completion",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 111,
+   "w": "compose",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 112,
+   "w": "composer",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 113,
+   "w": "compound",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 114,
+   "w": "comprehensive",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 115,
+   "w": "comprise",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 116,
+   "w": "compulsory",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 117,
+   "w": "concrete",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 118,
+   "w": "confess",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 119,
+   "w": "confusion",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 120,
+   "w": "consequently",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 121,
+   "w": "conservation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 122,
+   "w": "considerable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 123,
+   "w": "considerably",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 124,
+   "w": "consistently",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 125,
+   "w": "conspiracy",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 126,
+   "w": "consult",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 127,
+   "w": "consultant",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 128,
+   "w": "consumption",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 129,
+   "w": "controversial",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 130,
+   "w": "controversy",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 131,
+   "w": "convenience",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 132,
+   "w": "convention",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 133,
+   "w": "conventional",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 134,
+   "w": "convey",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 135,
+   "w": "convincing",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 136,
+   "w": "cope",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 137,
+   "w": "corporation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 138,
+   "w": "corridor",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 139,
+   "w": "counter (long flat surface)",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 140,
+   "w": "coverage",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 141,
+   "w": "crack",
+   "pos": "v.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 142,
+   "w": "craft",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 143,
+   "w": "creativity",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 144,
+   "w": "critically",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 145,
+   "w": "cruise",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 146,
+   "w": "cue",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 147,
+   "w": "curious",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 148,
+   "w": "curriculum",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 149,
+   "w": "cute",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 150,
+   "w": "dairy",
+   "pos": "n.,adj.",
+   "level": "B2"
+  },
+  {
+   "id": 151,
+   "w": "dare",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 152,
+   "w": "darkness",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 153,
+   "w": "database",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 154,
+   "w": "deadline",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 155,
+   "w": "deadly",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 156,
+   "w": "dealer",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 157,
+   "w": "deck",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 158,
+   "w": "defender",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 159,
+   "w": "delete",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 160,
+   "w": "democracy",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 161,
+   "w": "democratic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 162,
+   "w": "demonstration",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 163,
+   "w": "depart",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 164,
+   "w": "dependent",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 165,
+   "w": "deposit",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 166,
+   "w": "depression",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 167,
+   "w": "derive",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 168,
+   "w": "desperately",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 169,
+   "w": "destruction",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 170,
+   "w": "determination",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 171,
+   "w": "devote",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 172,
+   "w": "differ",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 173,
+   "w": "disability",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 174,
+   "w": "disabled",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 175,
+   "w": "disagreement",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 176,
+   "w": "disappoint",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 177,
+   "w": "disappointment",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 178,
+   "w": "discourage",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 179,
+   "w": "disorder",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 180,
+   "w": "distant",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 181,
+   "w": "distinct",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 182,
+   "w": "distinguish",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 183,
+   "w": "distract",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 184,
+   "w": "disturb",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 185,
+   "w": "dive",
+   "pos": "v.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 186,
+   "w": "diverse",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 187,
+   "w": "diversity",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 188,
+   "w": "divorce",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 189,
+   "w": "dominant",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 190,
+   "w": "donation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 191,
+   "w": "dot",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 192,
+   "w": "downtown",
+   "pos": "n.,adj.,adv.",
+   "level": "B2"
+  },
+  {
+   "id": 193,
+   "w": "dramatically",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 194,
+   "w": "drought",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 195,
+   "w": "dull",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 196,
+   "w": "dump",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 197,
+   "w": "duration",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 198,
+   "w": "dynamic",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 199,
+   "w": "economics",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 200,
+   "w": "economist",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 201,
+   "w": "editorial",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 202,
+   "w": "efficiently",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 203,
+   "w": "elbow",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 204,
+   "w": "electronics",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 205,
+   "w": "elegant",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 206,
+   "w": "elementary",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 207,
+   "w": "eliminate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 208,
+   "w": "embrace",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 209,
+   "w": "emission",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 210,
+   "w": "emotionally",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 211,
+   "w": "empire",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 212,
+   "w": "enjoyable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 213,
+   "w": "entertaining",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 214,
+   "w": "entrepreneur",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 215,
+   "w": "envelope",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 216,
+   "w": "equip",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 217,
+   "w": "equivalent",
+   "pos": "n.,adj.",
+   "level": "B2"
+  },
+  {
+   "id": 218,
+   "w": "era",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 219,
+   "w": "erupt",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 220,
+   "w": "essentially",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 221,
+   "w": "ethic",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 222,
+   "w": "ethnic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 223,
+   "w": "evaluation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 224,
+   "w": "evident",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 225,
+   "w": "evolution",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 226,
+   "w": "evolve",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 227,
+   "w": "exceed",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 228,
+   "w": "exception",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 229,
+   "w": "excessive",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 230,
+   "w": "exclude",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 231,
+   "w": "exhibit",
+   "pos": "v.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 232,
+   "w": "exit",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 233,
+   "w": "exotic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 234,
+   "w": "expansion",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 235,
+   "w": "expertise",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 236,
+   "w": "exploit",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 237,
+   "w": "exposure",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 238,
+   "w": "extension",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 239,
+   "w": "extensive",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 240,
+   "w": "extensively",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 241,
+   "w": "extract",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 242,
+   "w": "fabric",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 243,
+   "w": "fabulous",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 244,
+   "w": "failed",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 245,
+   "w": "fake",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 246,
+   "w": "fame",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 247,
+   "w": "fantasy",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 248,
+   "w": "fare",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 249,
+   "w": "federal",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 250,
+   "w": "fever",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 251,
+   "w": "firefighter",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 252,
+   "w": "firework",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 253,
+   "w": "firm",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 254,
+   "w": "firmly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 255,
+   "w": "flavour",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 256,
+   "w": "fond",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 257,
+   "w": "fool",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 258,
+   "w": "forbid",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 259,
+   "w": "forecast",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 260,
+   "w": "format",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 261,
+   "w": "formation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 262,
+   "w": "formerly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 263,
+   "w": "fortunate",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 264,
+   "w": "forum",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 265,
+   "w": "fossil",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 266,
+   "w": "foundation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 267,
+   "w": "founder",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 268,
+   "w": "fraction",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 269,
+   "w": "fragment",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 270,
+   "w": "framework",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 271,
+   "w": "fraud",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 272,
+   "w": "freely",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 273,
+   "w": "frequent",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 274,
+   "w": "fulfil",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 275,
+   "w": "full-time",
+   "pos": "adj./adv.",
+   "level": "B2"
+  },
+  {
+   "id": 276,
+   "w": "fundamentally",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 277,
+   "w": "furious",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 278,
+   "w": "gaming",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 279,
+   "w": "gay",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 280,
+   "w": "gender",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 281,
+   "w": "gene",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 282,
+   "w": "genetic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 283,
+   "w": "genius",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 284,
+   "w": "genuine",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 285,
+   "w": "genuinely",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 286,
+   "w": "gesture",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 287,
+   "w": "gig",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 288,
+   "w": "globalization",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 289,
+   "w": "globe",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 290,
+   "w": "golden",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 291,
+   "w": "goodness",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 292,
+   "w": "gorgeous",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 293,
+   "w": "governor",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 294,
+   "w": "graphic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 295,
+   "w": "graphics",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 296,
+   "w": "greatly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 297,
+   "w": "greenhouse",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 298,
+   "w": "grocery",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 299,
+   "w": "guideline",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 300,
+   "w": "habitat",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 301,
+   "w": "harbour",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 302,
+   "w": "headquarters",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 303,
+   "w": "heal",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 304,
+   "w": "healthcare",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 305,
+   "w": "helmet",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 306,
+   "w": "hence",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 307,
+   "w": "herb",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 308,
+   "w": "hidden",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 309,
+   "w": "highway",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 310,
+   "w": "hilarious",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 311,
+   "w": "hip",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 312,
+   "w": "historian",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 313,
+   "w": "homeless",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 314,
+   "w": "honesty",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 315,
+   "w": "hook",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 316,
+   "w": "hopefully",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 317,
+   "w": "hunger",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 318,
+   "w": "hypothesis",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 319,
+   "w": "icon",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 320,
+   "w": "identical",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 321,
+   "w": "illusion",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 322,
+   "w": "immigration",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 323,
+   "w": "immune",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 324,
+   "w": "implement",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 325,
+   "w": "implication",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 326,
+   "w": "incentive",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 327,
+   "w": "incorporate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 328,
+   "w": "incorrect",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 329,
+   "w": "independence",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 330,
+   "w": "index",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 331,
+   "w": "indication",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 332,
+   "w": "inevitable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 333,
+   "w": "infer",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 334,
+   "w": "inflation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 335,
+   "w": "info",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 336,
+   "w": "infrastructure",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 337,
+   "w": "inhabitant",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 338,
+   "w": "inherit",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 339,
+   "w": "ink",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 340,
+   "w": "innovation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 341,
+   "w": "innovative",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 342,
+   "w": "input",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 343,
+   "w": "insert",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 344,
+   "w": "inspector",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 345,
+   "w": "installation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 346,
+   "w": "instant",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 347,
+   "w": "instantly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 348,
+   "w": "integrate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 349,
+   "w": "intellectual",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 350,
+   "w": "interact",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 351,
+   "w": "interaction",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 352,
+   "w": "interpretation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 353,
+   "w": "interval",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 354,
+   "w": "invade",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 355,
+   "w": "invasion",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 356,
+   "w": "investor",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 357,
+   "w": "isolate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 358,
+   "w": "isolated",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 359,
+   "w": "jail",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 360,
+   "w": "jet",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 361,
+   "w": "joint",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 362,
+   "w": "journalism",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 363,
+   "w": "jury",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 364,
+   "w": "kit",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 365,
+   "w": "ladder",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 366,
+   "w": "landing",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 367,
+   "w": "lane",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 368,
+   "w": "lately",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 369,
+   "w": "leaflet",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 370,
+   "w": "legend",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 371,
+   "w": "lens",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 372,
+   "w": "lifetime",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 373,
+   "w": "lighting",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 374,
+   "w": "likewise",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 375,
+   "w": "limitation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 376,
+   "w": "literally",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 377,
+   "w": "literary",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 378,
+   "w": "litre",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 379,
+   "w": "litter",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 380,
+   "w": "logo",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 381,
+   "w": "lottery",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 382,
+   "w": "loyal",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 383,
+   "w": "lyric",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 384,
+   "w": "magnificent",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 385,
+   "w": "make-up",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 386,
+   "w": "making",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 387,
+   "w": "manufacture",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 388,
+   "w": "manufacturing",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 389,
+   "w": "marathon",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 390,
+   "w": "margin",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 391,
+   "w": "marker",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 392,
+   "w": "martial",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 393,
+   "w": "mate",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 394,
+   "w": "mayor",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 395,
+   "w": "mechanic",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 396,
+   "w": "mechanical",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 397,
+   "w": "mechanism",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 398,
+   "w": "medal",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 399,
+   "w": "medication",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 400,
+   "w": "membership",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 401,
+   "w": "memorable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 402,
+   "w": "metaphor",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 403,
+   "w": "miner",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 404,
+   "w": "miserable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 405,
+   "w": "mode",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 406,
+   "w": "modest",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 407,
+   "w": "monster",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 408,
+   "w": "monthly",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 409,
+   "w": "monument",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 410,
+   "w": "moreover",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 411,
+   "w": "mortgage",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 412,
+   "w": "mosque",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 413,
+   "w": "motion",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 414,
+   "w": "motivate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 415,
+   "w": "motivation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 416,
+   "w": "moving",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 417,
+   "w": "myth",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 418,
+   "w": "naked",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 419,
+   "w": "nasty",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 420,
+   "w": "navigation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 421,
+   "w": "nearby",
+   "pos": "adj.,adv.",
+   "level": "B2"
+  },
+  {
+   "id": 422,
+   "w": "necessity",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 423,
+   "w": "negotiate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 424,
+   "w": "negotiation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 425,
+   "w": "neutral",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 426,
+   "w": "newly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 427,
+   "w": "norm",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 428,
+   "w": "notebook",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 429,
+   "w": "novelist",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 430,
+   "w": "nowadays",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 431,
+   "w": "nursing",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 432,
+   "w": "nutrition",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 433,
+   "w": "obesity",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 434,
+   "w": "observer",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 435,
+   "w": "obstacle",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 436,
+   "w": "occupation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 437,
+   "w": "occupy",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 438,
+   "w": "offender",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 439,
+   "w": "ongoing",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 440,
+   "w": "openly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 441,
+   "w": "opera",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 442,
+   "w": "operator",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 443,
+   "w": "optimistic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 444,
+   "w": "orchestra",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 445,
+   "w": "organic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 446,
+   "w": "outfit",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 447,
+   "w": "output",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 448,
+   "w": "outstanding",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 449,
+   "w": "overcome",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 450,
+   "w": "overnight",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 451,
+   "w": "overseas",
+   "pos": "adv.,adj.",
+   "level": "B2"
+  },
+  {
+   "id": 452,
+   "w": "ownership",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 453,
+   "w": "oxygen",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 454,
+   "w": "packet",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 455,
+   "w": "palm",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 456,
+   "w": "panic",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 457,
+   "w": "parade",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 458,
+   "w": "parallel",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 459,
+   "w": "participation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 460,
+   "w": "partnership",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 461,
+   "w": "part-time",
+   "pos": "adj./adv.",
+   "level": "B2"
+  },
+  {
+   "id": 462,
+   "w": "passionate",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 463,
+   "w": "password",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 464,
+   "w": "patience",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 465,
+   "w": "pause",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 466,
+   "w": "peer",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 467,
+   "w": "penalty",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 468,
+   "w": "perceive",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 469,
+   "w": "perception",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 470,
+   "w": "permanently",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 471,
+   "w": "pill",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 472,
+   "w": "pity",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 473,
+   "w": "placement",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 474,
+   "w": "portion",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 475,
+   "w": "potentially",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 476,
+   "w": "precede",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 477,
+   "w": "precious",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 478,
+   "w": "precise",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 479,
+   "w": "precisely",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 480,
+   "w": "predictable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 481,
+   "w": "preference",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 482,
+   "w": "pride",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 483,
+   "w": "primarily",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 484,
+   "w": "principal",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 485,
+   "w": "prior",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 486,
+   "w": "probability",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 487,
+   "w": "probable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 488,
+   "w": "proceed",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 489,
+   "w": "programming",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 490,
+   "w": "progressive",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 491,
+   "w": "prohibit",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 492,
+   "w": "promising",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 493,
+   "w": "promotion",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 494,
+   "w": "prompt",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 495,
+   "w": "proportion",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 496,
+   "w": "protein",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 497,
+   "w": "protester",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 498,
+   "w": "psychological",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 499,
+   "w": "publicity",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 500,
+   "w": "publishing",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 501,
+   "w": "punk",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 502,
+   "w": "purely",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 503,
+   "w": "pursuit",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 504,
+   "w": "puzzle",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 505,
+   "w": "questionnaire",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 506,
+   "w": "racial",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 507,
+   "w": "racism",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 508,
+   "w": "racist",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 509,
+   "w": "radiation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 510,
+   "w": "rail",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 511,
+   "w": "random",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 512,
+   "w": "rat",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 513,
+   "w": "rating",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 514,
+   "w": "reasonably",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 515,
+   "w": "rebuild",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 516,
+   "w": "receiver",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 517,
+   "w": "recession",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 518,
+   "w": "reckon",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 519,
+   "w": "recognition",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 520,
+   "w": "recovery",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 521,
+   "w": "recruit",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 522,
+   "w": "recruitment",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 523,
+   "w": "referee",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 524,
+   "w": "refugee",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 525,
+   "w": "registration",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 526,
+   "w": "regulate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 527,
+   "w": "reinforce",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 528,
+   "w": "relieve",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 529,
+   "w": "relieved",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 530,
+   "w": "remarkable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 531,
+   "w": "remarkably",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 532,
+   "w": "reporting",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 533,
+   "w": "resign",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 534,
+   "w": "resolution",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 535,
+   "w": "restore",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 536,
+   "w": "restrict",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 537,
+   "w": "restriction",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 538,
+   "w": "retail",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 539,
+   "w": "retirement",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 540,
+   "w": "revenue",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 541,
+   "w": "revision",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 542,
+   "w": "ridiculous",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 543,
+   "w": "risky",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 544,
+   "w": "rival",
+   "pos": "n.,adj.",
+   "level": "B2"
+  },
+  {
+   "id": 545,
+   "w": "rob",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 546,
+   "w": "robbery",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 547,
+   "w": "rocket",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 548,
+   "w": "romance",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 549,
+   "w": "rose",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 550,
+   "w": "roughly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 551,
+   "w": "ruin",
+   "pos": "v.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 552,
+   "w": "satisfaction",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 553,
+   "w": "scandal",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 554,
+   "w": "scare",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 555,
+   "w": "scenario",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 556,
+   "w": "scholar",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 557,
+   "w": "scholarship",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 558,
+   "w": "scratch",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 559,
+   "w": "screening",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 560,
+   "w": "seeker",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 561,
+   "w": "seminar",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 562,
+   "w": "settler",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 563,
+   "w": "severely",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 564,
+   "w": "sexy",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 565,
+   "w": "shaped",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 566,
+   "w": "shocking",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 567,
+   "w": "shore",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 568,
+   "w": "short-term",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 569,
+   "w": "shortage",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 570,
+   "w": "shortly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 571,
+   "w": "sibling",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 572,
+   "w": "signature",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 573,
+   "w": "significance",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 574,
+   "w": "skilled",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 575,
+   "w": "skull",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 576,
+   "w": "slogan",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 577,
+   "w": "so-called",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 578,
+   "w": "somehow",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 579,
+   "w": "sometime",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 580,
+   "w": "sophisticated",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 581,
+   "w": "spare",
+   "pos": "adj.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 582,
+   "w": "specialize",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 583,
+   "w": "specify",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 584,
+   "w": "spectacular",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 585,
+   "w": "spectator",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 586,
+   "w": "speculate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 587,
+   "w": "speculation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 588,
+   "w": "spill",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 589,
+   "w": "spite",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 590,
+   "w": "spoil",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 591,
+   "w": "spokesman",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 592,
+   "w": "spokesperson",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 593,
+   "w": "spokeswoman",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 594,
+   "w": "sponsorship",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 595,
+   "w": "sporting",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 596,
+   "w": "stall",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 597,
+   "w": "stance",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 598,
+   "w": "starve",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 599,
+   "w": "steadily",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 600,
+   "w": "steam",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 601,
+   "w": "stimulate",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 602,
+   "w": "strengthen",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 603,
+   "w": "strictly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 604,
+   "w": "stroke",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 605,
+   "w": "stunning",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 606,
+   "w": "subsequent",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 607,
+   "w": "subsequently",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 608,
+   "w": "suburb",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 609,
+   "w": "suffering",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 610,
+   "w": "sufficient",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 611,
+   "w": "sufficiently",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 612,
+   "w": "super",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 613,
+   "w": "surgeon",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 614,
+   "w": "survival",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 615,
+   "w": "survivor",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 616,
+   "w": "suspend",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 617,
+   "w": "sustainable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 618,
+   "w": "swallow",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 619,
+   "w": "sympathetic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 620,
+   "w": "tackle",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 621,
+   "w": "tag",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 622,
+   "w": "tap",
+   "pos": "v.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 623,
+   "w": "technological",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 624,
+   "w": "teens",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 625,
+   "w": "temple",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 626,
+   "w": "temporarily",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 627,
+   "w": "tendency",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 628,
+   "w": "tension",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 629,
+   "w": "terminal",
+   "pos": "adj.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 630,
+   "w": "terms",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 631,
+   "w": "terribly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 632,
+   "w": "terrify",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 633,
+   "w": "territory",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 634,
+   "w": "terror",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 635,
+   "w": "terrorism",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 636,
+   "w": "terrorist",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 637,
+   "w": "testing",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 638,
+   "w": "textbook",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 639,
+   "w": "theft",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 640,
+   "w": "therapist",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 641,
+   "w": "thesis",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 642,
+   "w": "thorough",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 643,
+   "w": "thoroughly",
+   "pos": "adv.",
+   "level": "B2"
+  },
+  {
+   "id": 644,
+   "w": "thumb",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 645,
+   "w": "timing",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 646,
+   "w": "tissue",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 647,
+   "w": "ton",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 648,
+   "w": "tonne",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 649,
+   "w": "tournament",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 650,
+   "w": "trace",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 651,
+   "w": "trading",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 652,
+   "w": "tragedy",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 653,
+   "w": "tragic",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 654,
+   "w": "trait",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 655,
+   "w": "transmit",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 656,
+   "w": "transportation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 657,
+   "w": "trap",
+   "pos": "v.,n.",
+   "level": "B2"
+  },
+  {
+   "id": 658,
+   "w": "treasure",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 659,
+   "w": "tribe",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 660,
+   "w": "trigger",
+   "pos": "n.,v.",
+   "level": "B2"
+  },
+  {
+   "id": 661,
+   "w": "troop",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 662,
+   "w": "tsunami",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 663,
+   "w": "ultimate",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 664,
+   "w": "unacceptable",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 665,
+   "w": "uncertainty",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 666,
+   "w": "undergo",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 667,
+   "w": "undertake",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 668,
+   "w": "unfold",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 669,
+   "w": "unfortunate",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 670,
+   "w": "unite",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 671,
+   "w": "unity",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 672,
+   "w": "universal",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 673,
+   "w": "urgent",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 674,
+   "w": "usage",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 675,
+   "w": "useless",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 676,
+   "w": "valid",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 677,
+   "w": "variation",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 678,
+   "w": "vertical",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 679,
+   "w": "viewpoint",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 680,
+   "w": "visa",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 681,
+   "w": "visible",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 682,
+   "w": "voluntary",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 683,
+   "w": "voting",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 684,
+   "w": "wander",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 685,
+   "w": "warming",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 686,
+   "w": "weekly",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 687,
+   "w": "weird",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 688,
+   "w": "welfare",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 689,
+   "w": "wheat",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 690,
+   "w": "whilst",
+   "pos": "conj.",
+   "level": "B2"
+  },
+  {
+   "id": 691,
+   "w": "whoever",
+   "pos": "pron.",
+   "level": "B2"
+  },
+  {
+   "id": 692,
+   "w": "widespread",
+   "pos": "adj.",
+   "level": "B2"
+  },
+  {
+   "id": 693,
+   "w": "wisdom",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 694,
+   "w": "withdraw",
+   "pos": "v.",
+   "level": "B2"
+  },
+  {
+   "id": 695,
+   "w": "workforce",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 696,
+   "w": "workplace",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 697,
+   "w": "workshop",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 698,
+   "w": "worm",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 699,
+   "w": "wrist",
+   "pos": "n.",
+   "level": "B2"
+  },
+  {
+   "id": 700,
+   "w": "abolish",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 701,
+   "w": "abortion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 702,
+   "w": "absence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 703,
+   "w": "absent",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 704,
+   "w": "absurd",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 705,
+   "w": "abundance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 706,
+   "w": "abuse",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 707,
+   "w": "academy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 708,
+   "w": "accelerate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 709,
+   "w": "acceptance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 710,
+   "w": "accessible",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 711,
+   "w": "accomplishment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 712,
+   "w": "accordance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 713,
+   "w": "accordingly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 714,
+   "w": "accountability",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 715,
+   "w": "accountable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 716,
+   "w": "accumulate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 717,
+   "w": "accumulation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 718,
+   "w": "accusation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 719,
+   "w": "accused",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 720,
+   "w": "acquisition",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 721,
+   "w": "acre",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 722,
+   "w": "activation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 723,
+   "w": "activist",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 724,
+   "w": "acute",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 725,
+   "w": "adaptation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 726,
+   "w": "adhere",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 727,
+   "w": "adjacent",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 728,
+   "w": "adjustment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 729,
+   "w": "administer",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 730,
+   "w": "administrative",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 731,
+   "w": "administrator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 732,
+   "w": "admission",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 733,
+   "w": "adolescent",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 734,
+   "w": "adoption",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 735,
+   "w": "adverse",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 736,
+   "w": "advocate",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 737,
+   "w": "aesthetic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 738,
+   "w": "affection",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 739,
+   "w": "aftermath",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 740,
+   "w": "aggression",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 741,
+   "w": "agricultural",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 742,
+   "w": "aide",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 743,
+   "w": "albeit",
+   "pos": "conj.",
+   "level": "C1"
+  },
+  {
+   "id": 744,
+   "w": "alert",
+   "pos": "v.,n.,adj.",
+   "level": "C1"
+  },
+  {
+   "id": 745,
+   "w": "align",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 746,
+   "w": "alignment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 747,
+   "w": "alike",
+   "pos": "adv.,adj.",
+   "level": "C1"
+  },
+  {
+   "id": 748,
+   "w": "allegation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 749,
+   "w": "allege",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 750,
+   "w": "allegedly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 751,
+   "w": "alliance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 752,
+   "w": "allocate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 753,
+   "w": "allocation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 754,
+   "w": "allowance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 755,
+   "w": "ally",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 756,
+   "w": "aluminium",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 757,
+   "w": "amateur",
+   "pos": "adj.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 758,
+   "w": "ambassador",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 759,
+   "w": "amend",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 760,
+   "w": "amendment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 761,
+   "w": "amid",
+   "pos": "prep.",
+   "level": "C1"
+  },
+  {
+   "id": 762,
+   "w": "analogy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 763,
+   "w": "anchor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 764,
+   "w": "angel",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 765,
+   "w": "anonymous",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 766,
+   "w": "apparatus",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 767,
+   "w": "appealing",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 768,
+   "w": "appetite",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 769,
+   "w": "applaud",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 770,
+   "w": "applicable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 771,
+   "w": "appoint",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 772,
+   "w": "appreciation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 773,
+   "w": "arbitrary",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 774,
+   "w": "architectural",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 775,
+   "w": "archive",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 776,
+   "w": "arena",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 777,
+   "w": "arguably",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 778,
+   "w": "arm",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 779,
+   "w": "array",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 780,
+   "w": "articulate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 781,
+   "w": "ash",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 782,
+   "w": "aspiration",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 783,
+   "w": "aspire",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 784,
+   "w": "assassination",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 785,
+   "w": "assault",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 786,
+   "w": "assemble",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 787,
+   "w": "assembly",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 788,
+   "w": "assert",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 789,
+   "w": "assertion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 790,
+   "w": "assurance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 791,
+   "w": "asylum",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 792,
+   "w": "atrocity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 793,
+   "w": "attain",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 794,
+   "w": "attendance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 795,
+   "w": "attorney",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 796,
+   "w": "attribute",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 797,
+   "w": "audit",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 798,
+   "w": "authentic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 799,
+   "w": "authorize",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 800,
+   "w": "auto",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 801,
+   "w": "autonomy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 802,
+   "w": "availability",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 803,
+   "w": "await",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 804,
+   "w": "backdrop",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 805,
+   "w": "backing",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 806,
+   "w": "backup",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 807,
+   "w": "bail",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 808,
+   "w": "ballot",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 809,
+   "w": "banner",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 810,
+   "w": "bare",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 811,
+   "w": "barrel",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 812,
+   "w": "bass1",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 813,
+   "w": "battlefield",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 814,
+   "w": "bay",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 815,
+   "w": "beam",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 816,
+   "w": "beast",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 817,
+   "w": "behalf",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 818,
+   "w": "beloved",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 819,
+   "w": "bench",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 820,
+   "w": "benchmark",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 821,
+   "w": "beneath",
+   "pos": "prep.",
+   "level": "C1"
+  },
+  {
+   "id": 822,
+   "w": "beneficiary",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 823,
+   "w": "betray",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 824,
+   "w": "bind",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 825,
+   "w": "biography",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 826,
+   "w": "bishop",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 827,
+   "w": "bizarre",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 828,
+   "w": "blade",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 829,
+   "w": "blast",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 830,
+   "w": "bleed",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 831,
+   "w": "blend",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 832,
+   "w": "bless",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 833,
+   "w": "blessing",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 834,
+   "w": "boast",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 835,
+   "w": "bonus",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 836,
+   "w": "boom",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 837,
+   "w": "bounce",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 838,
+   "w": "boundary",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 839,
+   "w": "bow1",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 840,
+   "w": "breach",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 841,
+   "w": "breakdown",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 842,
+   "w": "breakthrough",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 843,
+   "w": "breed",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 844,
+   "w": "broadband",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 845,
+   "w": "browser",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 846,
+   "w": "brutal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 847,
+   "w": "buck",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 848,
+   "w": "buddy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 849,
+   "w": "buffer",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 850,
+   "w": "bulk",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 851,
+   "w": "burden",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 852,
+   "w": "bureaucracy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 853,
+   "w": "burial",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 854,
+   "w": "burst",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 855,
+   "w": "cabinet",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 856,
+   "w": "calculation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 857,
+   "w": "canvas",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 858,
+   "w": "capability",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 859,
+   "w": "capitalism",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 860,
+   "w": "capitalist",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 861,
+   "w": "cargo",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 862,
+   "w": "carriage",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 863,
+   "w": "carve",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 864,
+   "w": "casino",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 865,
+   "w": "casualty",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 866,
+   "w": "catalogue",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 867,
+   "w": "cater",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 868,
+   "w": "cattle",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 869,
+   "w": "caution",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 870,
+   "w": "cautious",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 871,
+   "w": "cease",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 872,
+   "w": "cemetery",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 873,
+   "w": "chamber",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 874,
+   "w": "chaos",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 875,
+   "w": "characterize",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 876,
+   "w": "charm",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 877,
+   "w": "charter",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 878,
+   "w": "chronic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 879,
+   "w": "chunk",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 880,
+   "w": "circulate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 881,
+   "w": "circulation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 882,
+   "w": "citizenship",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 883,
+   "w": "civic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 884,
+   "w": "civilian",
+   "pos": "n.,adj.",
+   "level": "C1"
+  },
+  {
+   "id": 885,
+   "w": "clarity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 886,
+   "w": "clash",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 887,
+   "w": "classification",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 888,
+   "w": "cling",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 889,
+   "w": "clinical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 890,
+   "w": "closure",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 891,
+   "w": "cluster",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 892,
+   "w": "coalition",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 893,
+   "w": "coastal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 894,
+   "w": "cocktail",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 895,
+   "w": "cognitive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 896,
+   "w": "coincide",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 897,
+   "w": "collaborate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 898,
+   "w": "collaboration",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 899,
+   "w": "collective",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 900,
+   "w": "collision",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 901,
+   "w": "colonial",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 902,
+   "w": "columnist",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 903,
+   "w": "combat",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 904,
+   "w": "commence",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 905,
+   "w": "commentary",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 906,
+   "w": "commentator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 907,
+   "w": "commerce",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 908,
+   "w": "commissioner",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 909,
+   "w": "commodity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 910,
+   "w": "communist",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 911,
+   "w": "companion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 912,
+   "w": "comparable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 913,
+   "w": "compassion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 914,
+   "w": "compel",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 915,
+   "w": "compelling",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 916,
+   "w": "compensate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 917,
+   "w": "compensation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 918,
+   "w": "competence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 919,
+   "w": "competent",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 920,
+   "w": "compile",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 921,
+   "w": "complement",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 922,
+   "w": "complexity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 923,
+   "w": "compliance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 924,
+   "w": "complication",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 925,
+   "w": "comply",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 926,
+   "w": "composition",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 927,
+   "w": "compromise",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 928,
+   "w": "compute",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 929,
+   "w": "conceal",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 930,
+   "w": "concede",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 931,
+   "w": "conceive",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 932,
+   "w": "conception",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 933,
+   "w": "concession",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 934,
+   "w": "condemn",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 935,
+   "w": "confer",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 936,
+   "w": "confession",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 937,
+   "w": "configuration",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 938,
+   "w": "confine",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 939,
+   "w": "confirmation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 940,
+   "w": "confront",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 941,
+   "w": "confrontation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 942,
+   "w": "congratulate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 943,
+   "w": "congregation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 944,
+   "w": "congressional",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 945,
+   "w": "conquer",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 946,
+   "w": "conscience",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 947,
+   "w": "consciousness",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 948,
+   "w": "consecutive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 949,
+   "w": "consensus",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 950,
+   "w": "consent",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 951,
+   "w": "conserve",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 952,
+   "w": "consistency",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 953,
+   "w": "consolidate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 954,
+   "w": "constituency",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 955,
+   "w": "constitute",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 956,
+   "w": "constitution",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 957,
+   "w": "constitutional",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 958,
+   "w": "constraint",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 959,
+   "w": "consultation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 960,
+   "w": "contemplate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 961,
+   "w": "contempt",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 962,
+   "w": "contend",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 963,
+   "w": "contender",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 964,
+   "w": "content2",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 965,
+   "w": "contention",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 966,
+   "w": "continually",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 967,
+   "w": "contractor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 968,
+   "w": "contradiction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 969,
+   "w": "contrary",
+   "pos": "adj.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 970,
+   "w": "contributor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 971,
+   "w": "conversion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 972,
+   "w": "convict",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 973,
+   "w": "conviction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 974,
+   "w": "cooperate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 975,
+   "w": "cooperative",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 976,
+   "w": "coordinate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 977,
+   "w": "coordination",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 978,
+   "w": "coordinator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 979,
+   "w": "cop",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 980,
+   "w": "copper",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 981,
+   "w": "copyright",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 982,
+   "w": "correction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 983,
+   "w": "correlate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 984,
+   "w": "correlation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 985,
+   "w": "correspond",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 986,
+   "w": "correspondence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 987,
+   "w": "correspondent",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 988,
+   "w": "corresponding",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 989,
+   "w": "corrupt",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 990,
+   "w": "corruption",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 991,
+   "w": "costly",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 992,
+   "w": "councillor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 993,
+   "w": "counselling",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 994,
+   "w": "counsellor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 995,
+   "w": "counter (argue against)",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 996,
+   "w": "counterpart",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 997,
+   "w": "countless",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 998,
+   "w": "coup",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 999,
+   "w": "courtesy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1000,
+   "w": "crawl",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1001,
+   "w": "creator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1002,
+   "w": "credibility",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1003,
+   "w": "credible",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1004,
+   "w": "creep",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1005,
+   "w": "critique",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1006,
+   "w": "crown",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1007,
+   "w": "crude",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1008,
+   "w": "crush",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1009,
+   "w": "crystal",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1010,
+   "w": "cult",
+   "pos": "n.,adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1011,
+   "w": "cultivate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1012,
+   "w": "curiosity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1013,
+   "w": "custody",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1014,
+   "w": "cutting",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1015,
+   "w": "cynical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1016,
+   "w": "dam",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1017,
+   "w": "damaging",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1018,
+   "w": "dawn",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1019,
+   "w": "debris",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1020,
+   "w": "debut",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1021,
+   "w": "decision-making",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1022,
+   "w": "decisive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1023,
+   "w": "declaration",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1024,
+   "w": "dedicated",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1025,
+   "w": "dedication",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1026,
+   "w": "deed",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1027,
+   "w": "deem",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1028,
+   "w": "default",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1029,
+   "w": "defect",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1030,
+   "w": "defensive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1031,
+   "w": "deficiency",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1032,
+   "w": "deficit",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1033,
+   "w": "defy",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1034,
+   "w": "delegate",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1035,
+   "w": "delegation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1036,
+   "w": "delicate",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1037,
+   "w": "demon",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1038,
+   "w": "denial",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1039,
+   "w": "denounce",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1040,
+   "w": "dense",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1041,
+   "w": "density",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1042,
+   "w": "dependence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1043,
+   "w": "depict",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1044,
+   "w": "deploy",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1045,
+   "w": "deployment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1046,
+   "w": "deprive",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1047,
+   "w": "deputy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1048,
+   "w": "descend",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1049,
+   "w": "descent",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1050,
+   "w": "designate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1051,
+   "w": "desirable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1052,
+   "w": "desktop",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1053,
+   "w": "destructive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1054,
+   "w": "detain",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1055,
+   "w": "detection",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1056,
+   "w": "detention",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1057,
+   "w": "deteriorate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1058,
+   "w": "devastate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1059,
+   "w": "devil",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1060,
+   "w": "devise",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1061,
+   "w": "diagnose",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1062,
+   "w": "diagnosis",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1063,
+   "w": "dictate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1064,
+   "w": "dictator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1065,
+   "w": "differentiate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1066,
+   "w": "dignity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1067,
+   "w": "dilemma",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1068,
+   "w": "dimension",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1069,
+   "w": "diminish",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1070,
+   "w": "dip",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1071,
+   "w": "diplomat",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1072,
+   "w": "diplomatic",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1073,
+   "w": "directory",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1074,
+   "w": "disastrous",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1075,
+   "w": "discard",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1076,
+   "w": "discharge",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1077,
+   "w": "disclose",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1078,
+   "w": "disclosure",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1079,
+   "w": "discourse",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1080,
+   "w": "discretion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1081,
+   "w": "discrimination",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1082,
+   "w": "dismissal",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1083,
+   "w": "displace",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1084,
+   "w": "disposal",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1085,
+   "w": "dispose",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1086,
+   "w": "dispute",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1087,
+   "w": "disrupt",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1088,
+   "w": "disruption",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1089,
+   "w": "dissolve",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1090,
+   "w": "distinction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1091,
+   "w": "distinctive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1092,
+   "w": "distort",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1093,
+   "w": "distress",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1094,
+   "w": "disturbing",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1095,
+   "w": "divert",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1096,
+   "w": "divine",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1097,
+   "w": "doctrine",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1098,
+   "w": "documentation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1099,
+   "w": "domain",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1100,
+   "w": "dominance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1101,
+   "w": "donor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1102,
+   "w": "dose",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1103,
+   "w": "drain",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1104,
+   "w": "drift",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1105,
+   "w": "driving",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1106,
+   "w": "drown",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1107,
+   "w": "dual",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1108,
+   "w": "dub",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1109,
+   "w": "dumb",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1110,
+   "w": "duo",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1111,
+   "w": "eager",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1112,
+   "w": "earnings",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1113,
+   "w": "ease",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1114,
+   "w": "echo",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1115,
+   "w": "ecological",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1116,
+   "w": "educator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1117,
+   "w": "effectiveness",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1118,
+   "w": "efficiency",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1119,
+   "w": "ego",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1120,
+   "w": "elaborate",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1121,
+   "w": "electoral",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1122,
+   "w": "elevate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1123,
+   "w": "eligible",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1124,
+   "w": "elite",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1125,
+   "w": "embark",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1126,
+   "w": "embarrassment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1127,
+   "w": "embassy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1128,
+   "w": "embed",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1129,
+   "w": "embody",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1130,
+   "w": "emergence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1131,
+   "w": "empirical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1132,
+   "w": "empower",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1133,
+   "w": "enact",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1134,
+   "w": "encompass",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1135,
+   "w": "encouragement",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1136,
+   "w": "encouraging",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1137,
+   "w": "endeavour",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1138,
+   "w": "endless",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1139,
+   "w": "endorse",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1140,
+   "w": "endorsement",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1141,
+   "w": "endure",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1142,
+   "w": "enforce",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1143,
+   "w": "enforcement",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1144,
+   "w": "engagement",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1145,
+   "w": "engaging",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1146,
+   "w": "enquire",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1147,
+   "w": "enrich",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1148,
+   "w": "enrol",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1149,
+   "w": "ensue",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1150,
+   "w": "enterprise",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1151,
+   "w": "enthusiast",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1152,
+   "w": "entitle",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1153,
+   "w": "entity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1154,
+   "w": "epidemic",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1155,
+   "w": "equality",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1156,
+   "w": "equation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1157,
+   "w": "erect",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1158,
+   "w": "escalate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1159,
+   "w": "essence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1160,
+   "w": "establishment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1161,
+   "w": "eternal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1162,
+   "w": "evacuate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1163,
+   "w": "evoke",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1164,
+   "w": "evolutionary",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1165,
+   "w": "exaggerate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1166,
+   "w": "excellence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1167,
+   "w": "exceptional",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1168,
+   "w": "excess",
+   "pos": "n.,adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1169,
+   "w": "exclusion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1170,
+   "w": "exclusive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1171,
+   "w": "exclusively",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1172,
+   "w": "execute",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1173,
+   "w": "execution",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1174,
+   "w": "exert",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1175,
+   "w": "exile",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1176,
+   "w": "expenditure",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1177,
+   "w": "experimental",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1178,
+   "w": "expire",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1179,
+   "w": "explicit",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1180,
+   "w": "explicitly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1181,
+   "w": "exploitation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1182,
+   "w": "explosive",
+   "pos": "adj.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1183,
+   "w": "extremist",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1184,
+   "w": "facilitate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1185,
+   "w": "faction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1186,
+   "w": "faculty",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1187,
+   "w": "fade",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1188,
+   "w": "fairness",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1189,
+   "w": "fatal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1190,
+   "w": "fate",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1191,
+   "w": "favourable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1192,
+   "w": "feat",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1193,
+   "w": "feeding",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1194,
+   "w": "feminist",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1195,
+   "w": "fibre",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1196,
+   "w": "fierce",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1197,
+   "w": "film-maker",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1198,
+   "w": "filter",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1199,
+   "w": "fine",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1200,
+   "w": "firearm",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1201,
+   "w": "fit",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1202,
+   "w": "fixture",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1203,
+   "w": "flaw",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1204,
+   "w": "flawed",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1205,
+   "w": "flee",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1206,
+   "w": "fleet",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1207,
+   "w": "flesh",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1208,
+   "w": "flexibility",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1209,
+   "w": "flourish",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1210,
+   "w": "fluid",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1211,
+   "w": "footage",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1212,
+   "w": "foreigner",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1213,
+   "w": "forge",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1214,
+   "w": "formula",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1215,
+   "w": "formulate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1216,
+   "w": "forth",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1217,
+   "w": "forthcoming",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1218,
+   "w": "foster",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1219,
+   "w": "fragile",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1220,
+   "w": "franchise",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1221,
+   "w": "frankly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1222,
+   "w": "frustrated",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1223,
+   "w": "frustrating",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1224,
+   "w": "frustration",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1225,
+   "w": "functional",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1226,
+   "w": "fundraising",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1227,
+   "w": "funeral",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1228,
+   "w": "gallon",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1229,
+   "w": "gambling",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1230,
+   "w": "gathering",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1231,
+   "w": "gaze",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1232,
+   "w": "gear",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1233,
+   "w": "generic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1234,
+   "w": "genocide",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1235,
+   "w": "glance",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1236,
+   "w": "glimpse",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1237,
+   "w": "glorious",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1238,
+   "w": "glory",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1239,
+   "w": "governance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1240,
+   "w": "grace",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1241,
+   "w": "grasp",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1242,
+   "w": "grave (for dead person)",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1243,
+   "w": "grave (serious)",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1244,
+   "w": "gravity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1245,
+   "w": "grid",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1246,
+   "w": "grief",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1247,
+   "w": "grin",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1248,
+   "w": "grind",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1249,
+   "w": "grip",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1250,
+   "w": "guerrilla",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1251,
+   "w": "guidance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1252,
+   "w": "guilt",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1253,
+   "w": "gut",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1254,
+   "w": "hail",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1255,
+   "w": "halfway",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1256,
+   "w": "halt",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1257,
+   "w": "handful",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1258,
+   "w": "handling",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1259,
+   "w": "handy",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1260,
+   "w": "harassment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1261,
+   "w": "hardware",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1262,
+   "w": "harmony",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1263,
+   "w": "harsh",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1264,
+   "w": "harvest",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1265,
+   "w": "hatred",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1266,
+   "w": "haunt",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1267,
+   "w": "hazard",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1268,
+   "w": "heighten",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1269,
+   "w": "heritage",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1270,
+   "w": "hierarchy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1271,
+   "w": "high-profile",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1272,
+   "w": "hint",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1273,
+   "w": "homeland",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1274,
+   "w": "hopeful",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1275,
+   "w": "horizon",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1276,
+   "w": "horn",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1277,
+   "w": "hostage",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1278,
+   "w": "hostile",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1279,
+   "w": "hostility",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1280,
+   "w": "humanitarian",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1281,
+   "w": "humanity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1282,
+   "w": "humble",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1283,
+   "w": "hydrogen",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1284,
+   "w": "identification",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1285,
+   "w": "ideological",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1286,
+   "w": "ideology",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1287,
+   "w": "idiot",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1288,
+   "w": "ignorance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1289,
+   "w": "imagery",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1290,
+   "w": "immense",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1291,
+   "w": "imminent",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1292,
+   "w": "implementation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1293,
+   "w": "imprison",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1294,
+   "w": "imprisonment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1295,
+   "w": "inability",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1296,
+   "w": "inadequate",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1297,
+   "w": "inappropriate",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1298,
+   "w": "incidence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1299,
+   "w": "inclined",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1300,
+   "w": "inclusion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1301,
+   "w": "incur",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1302,
+   "w": "indicator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1303,
+   "w": "indictment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1304,
+   "w": "indigenous",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1305,
+   "w": "induce",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1306,
+   "w": "indulge",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1307,
+   "w": "inequality",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1308,
+   "w": "infamous",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1309,
+   "w": "infant",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1310,
+   "w": "infect",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1311,
+   "w": "inflict",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1312,
+   "w": "influential",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1313,
+   "w": "inherent",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1314,
+   "w": "inhibit",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1315,
+   "w": "initiate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1316,
+   "w": "inject",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1317,
+   "w": "injection",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1318,
+   "w": "injustice",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1319,
+   "w": "inmate",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1320,
+   "w": "insertion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1321,
+   "w": "insider",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1322,
+   "w": "inspect",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1323,
+   "w": "inspection",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1324,
+   "w": "inspiration",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1325,
+   "w": "instinct",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1326,
+   "w": "institutional",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1327,
+   "w": "instruct",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1328,
+   "w": "instrumental",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1329,
+   "w": "insufficient",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1330,
+   "w": "insult",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1331,
+   "w": "intact",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1332,
+   "w": "intake",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1333,
+   "w": "integral",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1334,
+   "w": "integrated",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1335,
+   "w": "integration",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1336,
+   "w": "integrity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1337,
+   "w": "intensify",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1338,
+   "w": "intensity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1339,
+   "w": "intensive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1340,
+   "w": "intent",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1341,
+   "w": "interactive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1342,
+   "w": "interface",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1343,
+   "w": "interfere",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1344,
+   "w": "interference",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1345,
+   "w": "interim",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1346,
+   "w": "interior",
+   "pos": "adj.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1347,
+   "w": "intermediate",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1348,
+   "w": "intervene",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1349,
+   "w": "intervention",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1350,
+   "w": "intimate",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1351,
+   "w": "intriguing",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1352,
+   "w": "investigator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1353,
+   "w": "invisible",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1354,
+   "w": "invoke",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1355,
+   "w": "involvement",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1356,
+   "w": "ironic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1357,
+   "w": "ironically",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1358,
+   "w": "irony",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1359,
+   "w": "irrelevant",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1360,
+   "w": "isolation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1361,
+   "w": "judicial",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1362,
+   "w": "junction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1363,
+   "w": "jurisdiction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1364,
+   "w": "just",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1365,
+   "w": "justification",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1366,
+   "w": "kidnap",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1367,
+   "w": "kidney",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1368,
+   "w": "kingdom",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1369,
+   "w": "lad",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1370,
+   "w": "landlord",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1371,
+   "w": "landmark",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1372,
+   "w": "lap",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1373,
+   "w": "large-scale",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1374,
+   "w": "laser",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1375,
+   "w": "latter",
+   "pos": "adj.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1376,
+   "w": "lawn",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1377,
+   "w": "lawsuit",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1378,
+   "w": "layout",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1379,
+   "w": "leak",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1380,
+   "w": "leap",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1381,
+   "w": "legacy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1382,
+   "w": "legendary",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1383,
+   "w": "legislation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1384,
+   "w": "legislative",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1385,
+   "w": "legislature",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1386,
+   "w": "legitimate",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1387,
+   "w": "lengthy",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1388,
+   "w": "lesbian",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1389,
+   "w": "lesser",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1390,
+   "w": "lethal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1391,
+   "w": "liable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1392,
+   "w": "liberal",
+   "pos": "adj.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1393,
+   "w": "liberation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1394,
+   "w": "liberty",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1395,
+   "w": "license",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1396,
+   "w": "lifelong",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1397,
+   "w": "likelihood",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1398,
+   "w": "limb",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1399,
+   "w": "linear",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1400,
+   "w": "line-up",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1401,
+   "w": "linger",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1402,
+   "w": "listing",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1403,
+   "w": "literacy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1404,
+   "w": "liver",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1405,
+   "w": "lobby",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1406,
+   "w": "log",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1407,
+   "w": "logic",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1408,
+   "w": "long-standing",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1409,
+   "w": "long-time",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1410,
+   "w": "loom",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1411,
+   "w": "loop",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1412,
+   "w": "loyalty",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1413,
+   "w": "machinery",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1414,
+   "w": "magical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1415,
+   "w": "magistrate",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1416,
+   "w": "magnetic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1417,
+   "w": "magnitude",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1418,
+   "w": "mainland",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1419,
+   "w": "mainstream",
+   "pos": "n.,adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1420,
+   "w": "maintenance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1421,
+   "w": "major",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1422,
+   "w": "mandate",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1423,
+   "w": "mandatory",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1424,
+   "w": "manifest",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1425,
+   "w": "manipulate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1426,
+   "w": "manipulation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1427,
+   "w": "manuscript",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1428,
+   "w": "march",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1429,
+   "w": "marginal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1430,
+   "w": "marine",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1431,
+   "w": "marketplace",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1432,
+   "w": "mask",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1433,
+   "w": "massacre",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1434,
+   "w": "mathematical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1435,
+   "w": "mature",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1436,
+   "w": "maximize",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1437,
+   "w": "meaningful",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1438,
+   "w": "meantime",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1439,
+   "w": "medieval",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1440,
+   "w": "meditation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1441,
+   "w": "melody",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1442,
+   "w": "memo",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1443,
+   "w": "memoir",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1444,
+   "w": "memorial",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1445,
+   "w": "mentor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1446,
+   "w": "merchant",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1447,
+   "w": "mercy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1448,
+   "w": "mere",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1449,
+   "w": "merely",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1450,
+   "w": "merge",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1451,
+   "w": "merger",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1452,
+   "w": "merit",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1453,
+   "w": "methodology",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1454,
+   "w": "midst",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1455,
+   "w": "migration",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1456,
+   "w": "militant",
+   "pos": "n.,adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1457,
+   "w": "militia",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1458,
+   "w": "mill",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1459,
+   "w": "minimal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1460,
+   "w": "minimize",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1461,
+   "w": "mining",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1462,
+   "w": "ministry",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1463,
+   "w": "minute2",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1464,
+   "w": "miracle",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1465,
+   "w": "misery",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1466,
+   "w": "misleading",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1467,
+   "w": "missile",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1468,
+   "w": "mob",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1469,
+   "w": "mobility",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1470,
+   "w": "mobilize",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1471,
+   "w": "moderate",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1472,
+   "w": "modification",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1473,
+   "w": "momentum",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1474,
+   "w": "monk",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1475,
+   "w": "monopoly",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1476,
+   "w": "morality",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1477,
+   "w": "motive",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1478,
+   "w": "motorist",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1479,
+   "w": "municipal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1480,
+   "w": "mutual",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1481,
+   "w": "namely",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1482,
+   "w": "nationwide",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1483,
+   "w": "naval",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1484,
+   "w": "neglect",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1485,
+   "w": "neighbouring",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1486,
+   "w": "nest",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1487,
+   "w": "net",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1488,
+   "w": "newsletter",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1489,
+   "w": "niche",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1490,
+   "w": "noble",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1491,
+   "w": "nod",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1492,
+   "w": "nominate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1493,
+   "w": "nomination",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1494,
+   "w": "nominee",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1495,
+   "w": "nonetheless",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1496,
+   "w": "non-profit",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1497,
+   "w": "nonsense",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1498,
+   "w": "noon",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1499,
+   "w": "notable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1500,
+   "w": "notably",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1501,
+   "w": "notify",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1502,
+   "w": "notorious",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1503,
+   "w": "novel",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1504,
+   "w": "nursery",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1505,
+   "w": "objection",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1506,
+   "w": "oblige",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1507,
+   "w": "obsess",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1508,
+   "w": "obsession",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1509,
+   "w": "occasional",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1510,
+   "w": "occurrence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1511,
+   "w": "odds",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1512,
+   "w": "offering",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1513,
+   "w": "offspring",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1514,
+   "w": "operational",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1515,
+   "w": "opt",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1516,
+   "w": "optical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1517,
+   "w": "optimism",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1518,
+   "w": "oral",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1519,
+   "w": "organizational",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1520,
+   "w": "orientation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1521,
+   "w": "originate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1522,
+   "w": "outbreak",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1523,
+   "w": "outing",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1524,
+   "w": "outlet",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1525,
+   "w": "outlook",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1526,
+   "w": "outrage",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1527,
+   "w": "outsider",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1528,
+   "w": "overlook",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1529,
+   "w": "overly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1530,
+   "w": "oversee",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1531,
+   "w": "overturn",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1532,
+   "w": "overwhelm",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1533,
+   "w": "overwhelming",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1534,
+   "w": "pad",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1535,
+   "w": "parameter",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1536,
+   "w": "parental",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1537,
+   "w": "parish",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1538,
+   "w": "parliamentary",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1539,
+   "w": "partial",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1540,
+   "w": "partially",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1541,
+   "w": "passing",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1542,
+   "w": "passive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1543,
+   "w": "pastor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1544,
+   "w": "patch",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1545,
+   "w": "patent",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1546,
+   "w": "pathway",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1547,
+   "w": "patrol",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1548,
+   "w": "patron",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1549,
+   "w": "peak",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1550,
+   "w": "peasant",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1551,
+   "w": "peculiar",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1552,
+   "w": "persist",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1553,
+   "w": "persistent",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1554,
+   "w": "personnel",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1555,
+   "w": "petition",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1556,
+   "w": "philosopher",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1557,
+   "w": "philosophical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1558,
+   "w": "physician",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1559,
+   "w": "pioneer",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1560,
+   "w": "pipeline",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1561,
+   "w": "pirate",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1562,
+   "w": "pit",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1563,
+   "w": "plea",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1564,
+   "w": "plead",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1565,
+   "w": "pledge",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1566,
+   "w": "plug",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1567,
+   "w": "plunge",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1568,
+   "w": "pole",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1569,
+   "w": "poll",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1570,
+   "w": "pond",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1571,
+   "w": "pop",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1572,
+   "w": "portfolio",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1573,
+   "w": "portray",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1574,
+   "w": "postpone",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1575,
+   "w": "post-war",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1576,
+   "w": "practitioner",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1577,
+   "w": "preach",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1578,
+   "w": "precedent",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1579,
+   "w": "precision",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1580,
+   "w": "predator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1581,
+   "w": "predecessor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1582,
+   "w": "predominantly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1583,
+   "w": "pregnancy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1584,
+   "w": "prejudice",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1585,
+   "w": "preliminary",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1586,
+   "w": "premier",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1587,
+   "w": "premise",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1588,
+   "w": "premium",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1589,
+   "w": "prescribe",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1590,
+   "w": "prescription",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1591,
+   "w": "presently",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1592,
+   "w": "preservation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1593,
+   "w": "preside",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1594,
+   "w": "presidency",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1595,
+   "w": "presidential",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1596,
+   "w": "prestigious",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1597,
+   "w": "presumably",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1598,
+   "w": "presume",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1599,
+   "w": "prevail",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1600,
+   "w": "prevalence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1601,
+   "w": "prevention",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1602,
+   "w": "prey",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1603,
+   "w": "privatization",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1604,
+   "w": "privilege",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1605,
+   "w": "probe",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1606,
+   "w": "problematic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1607,
+   "w": "proceedings",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1608,
+   "w": "proceeds",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1609,
+   "w": "processing",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1610,
+   "w": "processor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1611,
+   "w": "proclaim",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1612,
+   "w": "productive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1613,
+   "w": "productivity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1614,
+   "w": "profitable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1615,
+   "w": "profound",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1616,
+   "w": "projection",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1617,
+   "w": "prominent",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1618,
+   "w": "pronounced",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1619,
+   "w": "propaganda",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1620,
+   "w": "proposition",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1621,
+   "w": "prosecute",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1622,
+   "w": "prosecution",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1623,
+   "w": "prosecutor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1624,
+   "w": "prospective",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1625,
+   "w": "prosperity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1626,
+   "w": "protective",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1627,
+   "w": "protocol",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1628,
+   "w": "province",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1629,
+   "w": "provincial",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1630,
+   "w": "provision",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1631,
+   "w": "provoke",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1632,
+   "w": "psychiatric",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1633,
+   "w": "pulse",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1634,
+   "w": "pump",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1635,
+   "w": "punch",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1636,
+   "w": "query",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1637,
+   "w": "quest",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1638,
+   "w": "quota",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1639,
+   "w": "radar",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1640,
+   "w": "radical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1641,
+   "w": "rage",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1642,
+   "w": "raid",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1643,
+   "w": "rally",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1644,
+   "w": "ranking",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1645,
+   "w": "rape",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1646,
+   "w": "ratio",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1647,
+   "w": "rational",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1648,
+   "w": "ray",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1649,
+   "w": "readily",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1650,
+   "w": "realization",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1651,
+   "w": "realm",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1652,
+   "w": "rear",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1653,
+   "w": "reassure",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1654,
+   "w": "reasoning",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1655,
+   "w": "rebel",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1656,
+   "w": "rebellion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1657,
+   "w": "recipient",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1658,
+   "w": "reconstruction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1659,
+   "w": "recount1",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1660,
+   "w": "referendum",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1661,
+   "w": "reflection",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1662,
+   "w": "reform",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1663,
+   "w": "refuge",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1664,
+   "w": "refusal",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1665,
+   "w": "regain",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1666,
+   "w": "regardless",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1667,
+   "w": "regime",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1668,
+   "w": "regulator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1669,
+   "w": "regulatory",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1670,
+   "w": "rehabilitation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1671,
+   "w": "reign",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1672,
+   "w": "rejection",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1673,
+   "w": "relevance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1674,
+   "w": "reliability",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1675,
+   "w": "reluctant",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1676,
+   "w": "remainder",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1677,
+   "w": "remains",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1678,
+   "w": "remedy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1679,
+   "w": "reminder",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1680,
+   "w": "removal",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1681,
+   "w": "render",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1682,
+   "w": "renew",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1683,
+   "w": "renowned",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1684,
+   "w": "rental",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1685,
+   "w": "replacement",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1686,
+   "w": "reportedly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1687,
+   "w": "representation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1688,
+   "w": "reproduce",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1689,
+   "w": "reproduction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1690,
+   "w": "republic",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1691,
+   "w": "resemble",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1692,
+   "w": "reside",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1693,
+   "w": "residence",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1694,
+   "w": "residential",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1695,
+   "w": "residue",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1696,
+   "w": "resignation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1697,
+   "w": "resistance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1698,
+   "w": "respective",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1699,
+   "w": "respectively",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1700,
+   "w": "restoration",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1701,
+   "w": "restraint",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1702,
+   "w": "resume",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1703,
+   "w": "retreat",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1704,
+   "w": "retrieve",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1705,
+   "w": "revelation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1706,
+   "w": "revenge",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1707,
+   "w": "reverse",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1708,
+   "w": "revival",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1709,
+   "w": "revive",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1710,
+   "w": "revolutionary",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1711,
+   "w": "rhetoric",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1712,
+   "w": "rifle",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1713,
+   "w": "riot",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1714,
+   "w": "rip",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1715,
+   "w": "ritual",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1716,
+   "w": "robust",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1717,
+   "w": "rock",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1718,
+   "w": "rod",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1719,
+   "w": "rotate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1720,
+   "w": "rotation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1721,
+   "w": "ruling",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1722,
+   "w": "rumour",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1723,
+   "w": "sack",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1724,
+   "w": "sacred",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1725,
+   "w": "sacrifice",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1726,
+   "w": "saint",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1727,
+   "w": "sake",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1728,
+   "w": "sanction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1729,
+   "w": "say",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1730,
+   "w": "scattered",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1731,
+   "w": "sceptical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1732,
+   "w": "scope",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1733,
+   "w": "screw",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1734,
+   "w": "scrutiny",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1735,
+   "w": "seal",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1736,
+   "w": "secular",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1737,
+   "w": "seemingly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1738,
+   "w": "segment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1739,
+   "w": "seize",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1740,
+   "w": "seldom",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1741,
+   "w": "selective",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1742,
+   "w": "senator",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1743,
+   "w": "sensation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1744,
+   "w": "sensitivity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1745,
+   "w": "sentiment",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1746,
+   "w": "separation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1747,
+   "w": "serial",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1748,
+   "w": "settlement",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1749,
+   "w": "set-up",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1750,
+   "w": "sexuality",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1751,
+   "w": "shareholder",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1752,
+   "w": "shatter",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1753,
+   "w": "shed",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1754,
+   "w": "sheer",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1755,
+   "w": "shipping",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1756,
+   "w": "shoot",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1757,
+   "w": "shrink",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1758,
+   "w": "shrug",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1759,
+   "w": "sigh",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1760,
+   "w": "simulate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1761,
+   "w": "simulation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1762,
+   "w": "simultaneously",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1763,
+   "w": "sin",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1764,
+   "w": "situated",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1765,
+   "w": "sketch",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1766,
+   "w": "skip",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1767,
+   "w": "slam",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1768,
+   "w": "slap",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1769,
+   "w": "slash",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1770,
+   "w": "slavery",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1771,
+   "w": "slot",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1772,
+   "w": "smash",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1773,
+   "w": "snap",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1774,
+   "w": "soak",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1775,
+   "w": "soar",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1776,
+   "w": "socialist",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1777,
+   "w": "sole",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1778,
+   "w": "solely",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1779,
+   "w": "solicitor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1780,
+   "w": "solidarity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1781,
+   "w": "solo",
+   "pos": "adj.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1782,
+   "w": "sound",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1783,
+   "w": "sovereignty",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1784,
+   "w": "spam",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1785,
+   "w": "span",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1786,
+   "w": "spark",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1787,
+   "w": "specialized",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1788,
+   "w": "specification",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1789,
+   "w": "specimen",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1790,
+   "w": "spectacle",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1791,
+   "w": "spectrum",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1792,
+   "w": "spell",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1793,
+   "w": "sphere",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1794,
+   "w": "spin",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1795,
+   "w": "spine",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1796,
+   "w": "spotlight",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1797,
+   "w": "spouse",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1798,
+   "w": "spy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1799,
+   "w": "squad",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1800,
+   "w": "squeeze",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1801,
+   "w": "stab",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1802,
+   "w": "stability",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1803,
+   "w": "stabilize",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1804,
+   "w": "stake",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1805,
+   "w": "standing",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1806,
+   "w": "stark",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1807,
+   "w": "statistical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1808,
+   "w": "steer",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1809,
+   "w": "stem",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1810,
+   "w": "stereotype",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1811,
+   "w": "stimulus",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1812,
+   "w": "stir",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1813,
+   "w": "storage",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1814,
+   "w": "straightforward",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1815,
+   "w": "strain",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1816,
+   "w": "strand",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1817,
+   "w": "strategic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1818,
+   "w": "striking",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1819,
+   "w": "strip (long narrow piece)",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1820,
+   "w": "strip (remove clothes/a layer)",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1821,
+   "w": "strive",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1822,
+   "w": "structural",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1823,
+   "w": "stumble",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1824,
+   "w": "stun",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1825,
+   "w": "submission",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1826,
+   "w": "subscriber",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1827,
+   "w": "subscription",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1828,
+   "w": "subsidy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1829,
+   "w": "substantial",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1830,
+   "w": "substantially",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1831,
+   "w": "substitute",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1832,
+   "w": "substitution",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1833,
+   "w": "subtle",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1834,
+   "w": "suburban",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1835,
+   "w": "succession",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1836,
+   "w": "successive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1837,
+   "w": "successor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1838,
+   "w": "suck",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1839,
+   "w": "sue",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1840,
+   "w": "suicide",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1841,
+   "w": "suite",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1842,
+   "w": "summit",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1843,
+   "w": "superb",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1844,
+   "w": "superior",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1845,
+   "w": "supervise",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1846,
+   "w": "supervision",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1847,
+   "w": "supervisor",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1848,
+   "w": "supplement",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1849,
+   "w": "supportive",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1850,
+   "w": "supposedly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1851,
+   "w": "suppress",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1852,
+   "w": "supreme",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1853,
+   "w": "surge",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1854,
+   "w": "surgical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1855,
+   "w": "surplus",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1856,
+   "w": "surrender",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1857,
+   "w": "surveillance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1858,
+   "w": "suspension",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1859,
+   "w": "suspicion",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1860,
+   "w": "suspicious",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1861,
+   "w": "sustain",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1862,
+   "w": "swing",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1863,
+   "w": "sword",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1864,
+   "w": "symbolic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1865,
+   "w": "syndrome",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1866,
+   "w": "synthesis",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1867,
+   "w": "systematic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1868,
+   "w": "tactic",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1869,
+   "w": "tactical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1870,
+   "w": "taxpayer",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1871,
+   "w": "tempt",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1872,
+   "w": "tenant",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1873,
+   "w": "tender",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1874,
+   "w": "tenure",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1875,
+   "w": "terminate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1876,
+   "w": "terrain",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1877,
+   "w": "terrific",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1878,
+   "w": "testify",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1879,
+   "w": "testimony",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1880,
+   "w": "texture",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1881,
+   "w": "thankfully",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1882,
+   "w": "theatrical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1883,
+   "w": "theology",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1884,
+   "w": "theoretical",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1885,
+   "w": "thereafter",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1886,
+   "w": "thereby",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1887,
+   "w": "thoughtful",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1888,
+   "w": "thought-provoking",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1889,
+   "w": "thread",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1890,
+   "w": "threshold",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1891,
+   "w": "thrilled",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1892,
+   "w": "thrive",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1893,
+   "w": "tide",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1894,
+   "w": "tighten",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1895,
+   "w": "timber",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1896,
+   "w": "timely",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1897,
+   "w": "tobacco",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1898,
+   "w": "tolerance",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1899,
+   "w": "tolerate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1900,
+   "w": "toll",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1901,
+   "w": "top",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1902,
+   "w": "torture",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1903,
+   "w": "toss",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1904,
+   "w": "total",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1905,
+   "w": "toxic",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1906,
+   "w": "trademark",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1907,
+   "w": "trail",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1908,
+   "w": "trailer",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1909,
+   "w": "transaction",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1910,
+   "w": "transcript",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1911,
+   "w": "transformation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1912,
+   "w": "transit",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1913,
+   "w": "transmission",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1914,
+   "w": "transparency",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1915,
+   "w": "transparent",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1916,
+   "w": "trauma",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1917,
+   "w": "treaty",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1918,
+   "w": "tremendous",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1919,
+   "w": "tribal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1920,
+   "w": "tribunal",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1921,
+   "w": "tribute",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1922,
+   "w": "trio",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1923,
+   "w": "triumph",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1924,
+   "w": "trophy",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1925,
+   "w": "troubled",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1926,
+   "w": "trustee",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1927,
+   "w": "tuition",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1928,
+   "w": "turnout",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1929,
+   "w": "turnover",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1930,
+   "w": "twist",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1931,
+   "w": "undergraduate",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1932,
+   "w": "underlying",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1933,
+   "w": "undermine",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1934,
+   "w": "undoubtedly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1935,
+   "w": "unify",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1936,
+   "w": "unprecedented",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1937,
+   "w": "unveil",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1938,
+   "w": "upcoming",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1939,
+   "w": "upgrade",
+   "pos": "v.,n.",
+   "level": "C1"
+  },
+  {
+   "id": 1940,
+   "w": "uphold",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1941,
+   "w": "utility",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1942,
+   "w": "utilize",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1943,
+   "w": "utterly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1944,
+   "w": "vacuum",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1945,
+   "w": "vague",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1946,
+   "w": "validity",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1947,
+   "w": "vanish",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1948,
+   "w": "variable",
+   "pos": "n.,adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1949,
+   "w": "varied",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1950,
+   "w": "vein",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1951,
+   "w": "venture",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1952,
+   "w": "verbal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1953,
+   "w": "verdict",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1954,
+   "w": "verify",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1955,
+   "w": "verse",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1956,
+   "w": "versus",
+   "pos": "prep.",
+   "level": "C1"
+  },
+  {
+   "id": 1957,
+   "w": "vessel",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1958,
+   "w": "veteran",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1959,
+   "w": "viable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1960,
+   "w": "vibrant",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1961,
+   "w": "vice",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1962,
+   "w": "vicious",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1963,
+   "w": "villager",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1964,
+   "w": "violate",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1965,
+   "w": "violation",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1966,
+   "w": "virtue",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1967,
+   "w": "vocal",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1968,
+   "w": "vow",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1969,
+   "w": "vulnerability",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1970,
+   "w": "vulnerable",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1971,
+   "w": "ward",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1972,
+   "w": "warehouse",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1973,
+   "w": "warfare",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1974,
+   "w": "warrant",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1975,
+   "w": "warrior",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1976,
+   "w": "weaken",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1977,
+   "w": "weave",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1978,
+   "w": "weed",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1979,
+   "w": "well",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1980,
+   "w": "well-being",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1981,
+   "w": "whatsoever",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1982,
+   "w": "whereby",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1983,
+   "w": "whip",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1984,
+   "w": "wholly",
+   "pos": "adv.",
+   "level": "C1"
+  },
+  {
+   "id": 1985,
+   "w": "widen",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1986,
+   "w": "widow",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1987,
+   "w": "width",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1988,
+   "w": "willingness",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1989,
+   "w": "wipe",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1990,
+   "w": "wit",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1991,
+   "w": "withdrawal",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1992,
+   "w": "workout",
+   "pos": "n.",
+   "level": "C1"
+  },
+  {
+   "id": 1993,
+   "w": "worship",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1994,
+   "w": "worthwhile",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1995,
+   "w": "worthy",
+   "pos": "adj.",
+   "level": "C1"
+  },
+  {
+   "id": 1996,
+   "w": "yell",
+   "pos": "v.",
+   "level": "C1"
+  },
+  {
+   "id": 1997,
+   "w": "yield",
+   "pos": "n.,v.",
+   "level": "C1"
+  },
+  {
+   "id": 1998,
+   "w": "youngster",
+   "pos": "n.",
+   "level": "C1"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+name: Build Android APK
+
+# 触发方式：
+#   1) 网页点 Actions -> Build Android APK -> Run workflow（推荐）
+#   2) 往 main 分支推代码时自动触发
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
+
+      - name: 安装 JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: zulu
+          java-version: "17"
+
+      - name: 安装 Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: "3.24.5"
+          channel: stable
+          cache: true
+
+      # 仓库里只有 lib/ 和 assets/，平台目录在 CI 现场生成，避免动到业务代码
+      - name: 生成 android 平台目录
+        run: |
+          flutter create --org com.oxfordvocab --project-name oxford_vocab --platforms=android .scaffold
+          cp -r .scaffold/android .
+          rm -rf .scaffold
+          sed -i 's/android:label="[^"]*"/android:label="牛津5000"/' android/app/src/main/AndroidManifest.xml
+
+      - name: 拉取依赖
+        run: flutter pub get
+
+      - name: 编译 release APK
+        run: flutter build apk --release
+
+      - name: 整理产物
+        run: |
+          mkdir -p out
+          cp build/app/outputs/flutter-apk/app-release.apk out/牛津5000.apk
+          ls -lh out
+
+      - name: 上传临时产物
+        uses: actions/upload-artifact@v4
+        with:
+          name: oxford-vocab-apk
+          path: out/*.apk
+          retention-days: 30
+
+      # 关键一步：挂到 Release 上，手机浏览器免登录直接点下载
+      - name: 发布到 Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.${{ github.run_number }}
+          name: 牛津5000 v1.0.${{ github.run_number }}
+          body: |
+            牛津 5000 背单词 App（安卓）
+            下载 牛津5000.apk 直接安装即可，首次安装需允许「安装未知来源应用」。
+          files: out/牛津5000.apk
+          draft: false
+          prerelease: false

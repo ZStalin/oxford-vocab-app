@@ -1,0 +1,23 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+*.iml
+.idea/
+.vscode/
+
+# 平台脚手架由 tools/setup_scaffold.sh 生成，不入库
+# （如果你想团队共享，删掉下面两行）
+android/
+ios/
+
+# 签名文件，绝对不要提交
+key.properties
+*.jks
+*.keystore
+
+# 中间数据
+.scaffold/
