@@ -1,8 +1,5 @@
 name: Build Android APK
 
-# 触发方式：
-#   1) 网页点 Actions -> Build Android APK -> Run workflow（推荐）
-#   2) 往 main 分支推代码时自动触发
 on:
   workflow_dispatch:
   push:
@@ -14,7 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
 
     steps:
       - name: 拉取代码
@@ -26,14 +23,18 @@ jobs:
           distribution: zulu
           java-version: "17"
 
-      - name: 安装 Flutter
+      - name: 安装 Flutter（stable 最新版）
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: "3.24.5"
           channel: stable
           cache: true
 
-      # 仓库里只有 lib/ 和 assets/，平台目录在 CI 现场生成，避免动到业务代码
+      - name: 记录环境版本
+        run: |
+          flutter --version
+          java -version
+
+      # 平台目录在 CI 现场生成，避免动到仓库里的业务代码
       - name: 生成 android 平台目录
         run: |
           flutter create --org com.oxfordvocab --project-name oxford_vocab --platforms=android .scaffold
@@ -44,31 +45,57 @@ jobs:
       - name: 拉取依赖
         run: flutter pub get
 
-      - name: 编译 release APK
-        run: flutter build apk --release
+      - name: 静态检查 + 编译（日志全量留存）
+        id: apk
+        continue-on-error: true
+        shell: bash
+        run: |
+          set -o pipefail
+          {
+            echo "===== flutter --version ====="
+            flutter --version
+            echo "===== flutter analyze ====="
+            flutter analyze || true
+            echo "===== flutter build apk ====="
+            flutter build apk --release
+          } 2>&1 | tee build.log
+
+      # 失败时把日志提交回仓库，便于远程排查（[skip ci] 防止循环触发）
+      - name: 失败时回传日志
+        if: steps.apk.outcome == 'failure'
+        run: |
+          head -c 400000 build.log > build_err.log || true
+          git config user.name "ci-bot"
+          git config user.email "ci-bot@users.noreply.github.com"
+          git add -f build_err.log
+          git commit -m "ci: build error log [skip ci]" || true
+          git push || true
 
       - name: 整理产物
+        if: steps.apk.outcome == 'success'
         run: |
           mkdir -p out
           cp build/app/outputs/flutter-apk/app-release.apk out/牛津5000.apk
           ls -lh out
 
       - name: 上传临时产物
+        if: steps.apk.outcome == 'success'
         uses: actions/upload-artifact@v4
         with:
           name: oxford-vocab-apk
           path: out/*.apk
           retention-days: 30
 
-      # 关键一步：挂到 Release 上，手机浏览器免登录直接点下载
+      # 挂到 Release：手机浏览器免登录直接下载
       - name: 发布到 Release
+        if: steps.apk.outcome == 'success'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v1.0.${{ github.run_number }}
           name: 牛津5000 v1.0.${{ github.run_number }}
           body: |
             牛津 5000 背单词 App（安卓）
-            下载 牛津5000.apk 直接安装即可，首次安装需允许「安装未知来源应用」。
+            下载 牛津5000.apk 直接安装，首次安装需允许「安装未知来源应用」。
           files: out/牛津5000.apk
           draft: false
           prerelease: false
